@@ -1,14 +1,20 @@
-     # Path to your project directory
-     $projectPath = "C:\Users\larso\xml_project"
+# Path to your project directory
+$projectPath = "C:\Users\larso\xml_project"
 
-     # Change to the project directory
-     Set-Location $projectPath
+# Change to the project directory
+Set-Location $projectPath
 
-     # Add the modified file to the git repository
-     git add modified_supplier.xml
+# Initialize git repository (if not already initialized)
+git init
 
-     # Commit the changes with a message
-     git commit -m "Automatická aktualizácia XML feedu"
+# Add remote repository (if not already added)
+git remote add origin https://github.com/KnifeExpert/xml_project.git 2>$null
 
-     # Push the changes to the remote repository
-     git push origin main
+# Add all files to the git repository
+git add .
+
+# Commit the changes with a message
+git commit -m "Automatická aktualizácia XML feedu"
+
+# Push the changes to the remote repository
+git push origin master
