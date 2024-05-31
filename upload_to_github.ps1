@@ -7,7 +7,7 @@ Set-Location $projectPath
 # Initialize git repository (if not already initialized)
 git init
 
-# Add remote repository (if not already added)
+# Add remote repository (ignore error if already exists)
 git remote add origin https://github.com/KnifeExpert/xml_project.git 2>$null
 
 # Add all files to the git repository
