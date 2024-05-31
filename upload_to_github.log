@@ -1,0 +1,9 @@
+Task started at pi 31. 05. 2024 20:56:53,04 
+Running download_xml.py for original supplier 
+Running modify_xml.py for original supplier 
+Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
+Running modify_xml_rosler.py for Rosler supplier 
+Feed bol konvertovaný a uložený ako 'C:\Users\larso\xml_project\modified_rosler_supplier.xml'.
+Running modify_xml_opinel.py for Opinel supplier 
+Feed bol konvertovaný a uložený ako 'C:\Users\larso\xml_project\modified_opinel_supplier.xml'.
+Running git commands 
