@@ -1,4 +1,4 @@
-Task started at pi 31. 05. 2024 17:29:34,60 
+Task started at pi 31. 05. 2024 17:40:52,59 
 Running download_xml.py for original supplier 
 Running modify_xml.py for original supplier 
 Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
@@ -9,8 +9,31 @@ Running download_xml_opinel.py for Opinel supplier
 Running modify_xml_opinel.py for Opinel supplier 
 Feed bol konvertovaný a uložený ako 'C:\Users\larso\xml_project\modified_opinel_supplier.xml'.
 Running git commands 
-Explicitly removing files from git 
-rm 'modified_supplier.xml'
-rm 'modified_rosler_supplier.xml'
-rm 'modified_opinel_supplier.xml'
-Adding all files to git 
+Force-adding specific files to git 
+warning: in the working copy of 'modified_opinel_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modified_rosler_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modified_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+Checking status 
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   modified_opinel_supplier.xml
+	new file:   modified_rosler_supplier.xml
+	new file:   modified_supplier.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   upload_to_github.bat
+	modified:   upload_to_github.log
+
+Force-committing changes 
+[master 0d9ea22] Force-updated modified feeds for all suppliers
+ 3 files changed, 1173707 insertions(+)
+ create mode 100644 modified_opinel_supplier.xml
+ create mode 100644 modified_rosler_supplier.xml
+ create mode 100644 modified_supplier.xml
+Pushing changes to GitHub 
+To https://github.com/KnifeExpert/xml_project.git
+   090f5c7..0d9ea22  master -> master
+Task finished at pi 31. 05. 2024 17:41:18,43 

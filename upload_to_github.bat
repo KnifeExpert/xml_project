@@ -23,24 +23,22 @@ python C:\Users\larso\xml_project\modify_xml_opinel.py >> %LOGFILE% 2>&1
 echo Running git commands >> %LOGFILE% 2>&1
 cd C:\Users\larso\xml_project
 
-echo Explicitly removing files from git >> %LOGFILE% 2>&1
-git rm --cached modified_supplier.xml >> %LOGFILE% 2>&1
-git rm --cached modified_rosler_supplier.xml >> %LOGFILE% 2>&1
-git rm --cached modified_opinel_supplier.xml >> %LOGFILE% 2>&1
-
-echo Adding all files to git >> %LOGFILE% 2>&1
-git add --all >> %LOGFILE% 2>&1
+echo Force-adding specific files to git >> %LOGFILE% 2>&1
+git add -f modified_supplier.xml modified_rosler_supplier.xml modified_opinel_supplier.xml >> %LOGFILE% 2>&1
 
 echo Checking status >> %LOGFILE% 2>&1
 git status >> %LOGFILE% 2>&1
 
-echo Committing changes >> %LOGFILE% 2>&1
-git commit --allow-empty -m "Updated modified feeds for all suppliers" >> %LOGFILE% 2>&1
+echo Force-committing changes >> %LOGFILE% 2>&1
+git commit --allow-empty -m "Force-updated modified feeds for all suppliers" >> %LOGFILE% 2>&1
 
 echo Pushing changes to GitHub >> %LOGFILE% 2>&1
 git push origin master >> %LOGFILE% 2>&1
 
 echo Task finished at %date% %time% >> %LOGFILE%
+
+
+
 
 
 
