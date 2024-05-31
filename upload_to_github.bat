@@ -22,12 +22,19 @@ python C:\Users\larso\xml_project\modify_xml_opinel.py >> %LOGFILE% 2>&1
 
 echo Running git commands >> %LOGFILE% 2>&1
 cd C:\Users\larso\xml_project
-git add . >> %LOGFILE% 2>&1
-git commit -m "Updated modified feeds for all suppliers" >> %LOGFILE% 2>&1
-git push origin master >> %LOGFILE% 2>&1
+
+echo Adding changes to git >> %LOGFILE% 2>&1
+git add -u >> %LOGFILE% 2>&1
+
+echo Staging new files to git >> %LOGFILE% 2>&1
+git add modified_supplier.xml modified_rosler_supplier.xml modified_opinel_supplier.xml >> %LOGFILE% 2>&1
+
+git diff-index --quiet HEAD || (
+    git commit -m "Updated modified feeds for all suppliers" >> %LOGFILE% 2>&1
+    git push origin master >> %LOGFILE% 2>&1
+)
 
 echo Task finished at %date% %time% >> %LOGFILE%
-
 
 
 

@@ -1,4 +1,4 @@
-Task started at pi 31. 05. 2024 16:18:25,62 
+Task started at pi 31. 05. 2024 16:28:49,25 
 Running download_xml.py for original supplier 
 Running modify_xml.py for original supplier 
 Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
@@ -9,3 +9,4 @@ Running download_xml_opinel.py for Opinel supplier
 Running modify_xml_opinel.py for Opinel supplier 
 Feed bol konvertovaný a uložený ako 'C:\Users\larso\xml_project\modified_opinel_supplier.xml'.
 Running git commands 
+Adding changes to git 
