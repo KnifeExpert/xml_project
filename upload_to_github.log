@@ -1,4 +1,4 @@
-Task started at pi 31. 05. 2024 17:19:02,31 
+Task started at pi 31. 05. 2024 17:23:09,15 
 Running download_xml.py for original supplier 
 Running modify_xml.py for original supplier 
 Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
@@ -9,4 +9,31 @@ Running download_xml_opinel.py for Opinel supplier
 Running modify_xml_opinel.py for Opinel supplier 
 Feed bol konvertovaný a uložený ako 'C:\Users\larso\xml_project\modified_opinel_supplier.xml'.
 Running git commands 
+Current directory: 
+C:\Users\larso\xml_project
+Listing files: 
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is D810-57A8
+
+ Directory of C:\Users\larso\xml_project
+
+31. 05. 2024  15:51    <DIR>          .
+28. 05. 2024  20:41    <DIR>          ..
+28. 05. 2024  16:10               209 download_xml.py
+31. 05. 2024  15:56               351 download_xml_opinel.py
+31. 05. 2024  15:02               226 download_xml_rosler.py
+31. 05. 2024  15:21               259 existing_products.xml
+31. 05. 2024  17:23        10ÿ262ÿ672 modified_opinel_supplier.xml
+31. 05. 2024  17:23         3ÿ943ÿ901 modified_rosler_supplier.xml
+31. 05. 2024  17:23        40ÿ171ÿ521 modified_supplier.xml
+30. 05. 2024  08:32             5ÿ739 modify_xml.py
+31. 05. 2024  16:06             4ÿ999 modify_xml_opinel.py
+31. 05. 2024  15:27             5ÿ298 modify_xml_rosler.py
+31. 05. 2024  17:23         2ÿ093ÿ636 opinel_supplier.xml
+31. 05. 2024  17:23         2ÿ012ÿ221 rosler_supplier.xml
+31. 05. 2024  17:23        23ÿ348ÿ272 supplier.xml
+31. 05. 2024  17:23             1ÿ673 upload_to_github.bat
+31. 05. 2024  17:23               691 upload_to_github.log
+              15 File(s)     81ÿ851ÿ668 bytes
+               2 Dir(s)  748ÿ097ÿ019ÿ904 bytes free
 Force-adding files to git 
