@@ -29,12 +29,15 @@ git add -u >> %LOGFILE% 2>&1
 echo Staging new files to git >> %LOGFILE% 2>&1
 git add modified_supplier.xml modified_rosler_supplier.xml modified_opinel_supplier.xml >> %LOGFILE% 2>&1
 
+git status >> %LOGFILE% 2>&1
+
 git diff-index --quiet HEAD || (
     git commit -m "Updated modified feeds for all suppliers" >> %LOGFILE% 2>&1
     git push origin master >> %LOGFILE% 2>&1
 )
 
 echo Task finished at %date% %time% >> %LOGFILE%
+
 
 
 
