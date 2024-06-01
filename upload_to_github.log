@@ -1,4 +1,4 @@
-Task started at pi 31. 05. 2024 21:51:37,84 
+Task started at so 01. 06. 2024 18:01:36,00 
 Running download_xml.py for original supplier 
 Running modify_xml.py for original supplier 
 Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
@@ -12,21 +12,17 @@ Forcing timestamp update on XML files
         1 file(s) copied.
 Running git commands 
 On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   supplier.xml
+	modified:   upload_to_github.log
+	modified:   upload_to_github.ps1
+
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	download_xml.py
-	download_xml_opinel.py
-	download_xml_rosler.py
-	existing_products.xml
-	modify_xml.py
-	modify_xml_opinel.py
-	modify_xml_rosler.py
-	opinel_supplier.xml
-	rosler_supplier.xml
-	supplier.xml
-	upload_to_github.bat
-	upload_to_github.log
+	navod.txt
 
-nothing added to commit but untracked files present (use "git add" to track)
+no changes added to commit (use "git add" and/or "git commit -a")
 Everything up-to-date
-Task finished at pi 31. 05. 2024 21:51:44,93 
+Task finished at so 01. 06. 2024 18:01:43,41 
