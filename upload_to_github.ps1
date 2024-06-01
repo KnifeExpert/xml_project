@@ -28,21 +28,15 @@ function Process-Supplier {
 
     # Verify the modified file is updated
     if (Test-Path $outputFile) {
-        # Check if there are any changes in the modified file
-        $changes = git diff $outputFile
-        if ($changes) {
-            Write-Host "Changes detected in $outputFile. Preparing to commit..."
-            # Add the modified XML file to the git repository
-            git add $outputFile
+        Write-Host "Committing $outputFile..."
+        # Add the modified XML file to the git repository
+        git add $outputFile
 
-            # Commit the changes with a message
-            git commit -m "Automatická aktualizácia XML feedu - updated $outputFile"
+        # Commit the changes with a message
+        git commit -m "Automatická aktualizácia XML feedu - updated $outputFile" --allow-empty
 
-            # Push the changes to the remote repository
-            git push origin master
-        } else {
-            Write-Host "No changes in $outputFile, nothing to commit."
-        }
+        # Push the changes to the remote repository
+        git push origin master
     } else {
         Write-Host "$outputFile not found or not updated."
     }
@@ -58,7 +52,7 @@ $otherChanges = git status --porcelain
 if ($otherChanges) {
     Write-Host "Other changes detected. Adding and committing..."
     git add .
-    git commit -m "Automatická aktualizácia - ostatné zmeny"
+    git commit -m "Automatická aktualizácia - ostatné zmeny" --allow-empty
     git push origin master
 } else {
     Write-Host "No other changes detected."
