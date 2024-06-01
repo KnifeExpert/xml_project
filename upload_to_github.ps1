@@ -19,10 +19,12 @@ function Process-Supplier {
     )
 
     # Run the script to download the XML file
-    & $downloadScript
+    Write-Host "Running download script: $downloadScript"
+    python $downloadScript
 
     # Run the script to modify the XML file
-    & $modifyScript
+    Write-Host "Running modify script: $modifyScript"
+    python $modifyScript
 
     # Verify the modified file is updated
     if (Test-Path $outputFile) {
