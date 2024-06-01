@@ -47,9 +47,9 @@ function Process-Supplier {
 }
 
 # Process each supplier
-Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml.py" -modifyScript "C:\Users\larso\xml_project\modify_xml.py" -outputFile "supplier.xml"
-Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml_opinel.py" -modifyScript "C:\Users\larso\xml_project\modify_xml_opinel.py" -outputFile "opinel_supplier.xml"
-Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml_rosler.py" -modifyScript "C:\Users\larso\xml_project\modify_xml_rosler.py" -outputFile "rosler_supplier.xml"
+Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml.py" -modifyScript "C:\Users\larso\xml_project\modify_xml.py" -outputFile "modified_supplier.xml"
+Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml_opinel.py" -modifyScript "C:\Users\larso\xml_project\modify_xml_opinel.py" -outputFile "modified_opinel_supplier.xml"
+Process-Supplier -downloadScript "C:\Users\larso\xml_project\download_xml_rosler.py" -modifyScript "C:\Users\larso\xml_project\modify_xml_rosler.py" -outputFile "modified_rosler_supplier.xml"
 
 # Add all other changes to the git repository (if needed)
 $otherChanges = git status --porcelain
@@ -61,3 +61,4 @@ if ($otherChanges) {
 } else {
     Write-Host "No other changes detected."
 }
+
