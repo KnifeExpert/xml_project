@@ -31,7 +31,6 @@ def convert_feed(input_file, output_file):
 
         condition_new = ET.SubElement(shopitem, "ITEM_CONDITION")
         grade_new = ET.SubElement(condition_new, "GRADE")
-        # Use a valid value for GRADE
         grade_new.text = "used"
         description_new = ET.SubElement(condition_new, "DESCRIPTION")
         description_new.text = "New item."
@@ -52,7 +51,7 @@ def convert_feed(input_file, output_file):
         if category_elem is not None and category_elem.text and category_elem.text.strip():
             category_new.text = category_elem.text
         else:
-            category_new.text = "Default Category"  # Nastavíme predvolenú hodnotu
+            category_new.text = "Default Category"
 
         image_link_elem = entry.find("IMGURL")
         if image_link_elem is not None:
@@ -72,6 +71,17 @@ def convert_feed(input_file, output_file):
         else:
             gtin_new = ET.SubElement(shopitem, "EAN")
             gtin_new.text = "N/A"
+
+        # Pridanie prvkov KVYDEJI a UNIT
+        kvydeji_elem = entry.find("KVYDEJI")
+        if kvydeji_elem is not None:
+            kvydeji_new = ET.SubElement(shopitem, "KVYDEJI")
+            kvydeji_new.text = kvydeji_elem.text  # Množstvo dostupné na výdaj
+
+        unit_elem = entry.find("MJ")
+        if unit_elem is not None:
+            unit_new = ET.SubElement(shopitem, "UNIT")
+            unit_new.text = unit_elem.text  # Merná jednotka (napr. ks pre kusy)
 
         required_elements = {
             'ACTION_PRICE': '0', 'ACTION_PRICE_FROM': '2023-01-01', 'ACTION_PRICE_UNTIL': '2023-12-31', 'ADULT': 'false',
@@ -106,5 +116,3 @@ input_file = 'C:\\Users\\larso\\xml_project\\opinel_supplier.xml'
 output_file = 'C:\\Users\\larso\\xml_project\\modified_opinel_supplier.xml'
 
 convert_feed(input_file, output_file)
-
-
