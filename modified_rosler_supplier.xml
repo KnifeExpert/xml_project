@@ -5737,8 +5737,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>31.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -45460,8 +45460,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>35.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -55304,8 +55304,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>8.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -56594,8 +56594,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>30.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -76882,9 +76882,9 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <GRADE>used</GRADE>
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
-    <PRICE_VAT>26.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <PRICE_VAT>28.00</PRICE_VAT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -80084,8 +80084,8 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>32.50</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -80152,8 +80152,8 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>35.50</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -93512,6 +93512,313 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://vreckovynoz.sk/files/products/2024/05/sak_0-6223-840_s1-jpgio%3dtransformfit,width1200,height740%26quality%3d80_77b33.jpeg</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>5.0201</CODE>
+    <NAME>Victorinox 5.0201 škrabka na zemiaky</NAME>
+    <DESCRIPTION>Rozmery: 10 x 149 x 17 mm  Šikovná škrabka na zemiaky z nehrdzavejúcej ocele so špicatým hrotom. Okrem zemiakov je skvelá aj na uhorky a mrkvu, takže domáce práce v kuchyni budú hračkou.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-5-0201-skrabka-na-zemiaky?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>6.90</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/victorinox-5.0201-skrabka-na-zemiaky.webp</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>7611160500052</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>2.1201.4</CODE>
+    <NAME>Mini náradie, 4 kusy</NAME>
+    <DESCRIPTION>Potrebujete si upraviť okuliare? Opravujete elektronické zariadenie alebo robíte každodenné opravy? Bez ohľadu na úlohy, ktoré vám deň prinesie, buďte pripravení s našou sadou obsahujúcou štyri kompaktné minináradie. Tieto presné nástroje sú šikovne navrhnuté tak, aby sa zmestili do vývrtky vášho noža, a preto sú vždy po ruke. Môžete si vybrať zo štyroch rôznych inteligentných nástrojov: štrbinový nástroj na upevnenie okuliarov alebo slnečných okuliarov, dva skrutkovače v rôznych veľkostiach a kolík na výmenu SIM karty smartfónu. Ideálny spôsob, ako rozšíriť vlastnosti vášho vreckového noža.  Sada obsahuje:   mini skrutkovač 1,5 mm   kolík na SIM kartu   krížový skrutkovač 000   skrutkovač Torx T4</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/mini-naradie-4-kusy?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>16.00</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/sak_mini-tools_g1-jpg.webp</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>3.0224.3CN</CODE>
+    <NAME>Victorinox 3.0224.3CN SwissTool Spirit XBS</NAME>
+    <DESCRIPTION>Multifunkčné náradie obsahuje:
+ 
+ 1. tenké kliešte
+ 
+ 2. veľká uzatváracia čepeľ 
+ 3. otvárač na fľaše so skrutkovačom 
+ 4. nožnice na tenký a mäkký drôt až do 40 HRc
+ 
+ 5. otvárač na konzervy 
+ 6. skrutkovač 6 mm
+ 
+ 7. skrutkovač 2 mm
+ 
+ 8. ohýbač drôtov
+ 
+ 9. dierovač, výstružník
+ 
+ 10. viacúčelový hák 
+ 11. nožnice
+ 
+ 12. pílka na drevo
+ 
+ 13. pílka na železo 
+ 14. pilník na železo 
+ 
+ 15. krížový skrutkovač  
+ 16. dláto a škrabka  čepeľ na pozdĺžne rezanie izolácie drôtov
+ 
+ 17. pozdĺžný rezací nôž na káble 
+ 18. priečny rezací nôž na káble  
+ 19. odstraňovač izolácie drôtov 
+ 
+ 20. otvor na pripevnenie vývrtky
+ 
+ 21. otvor na lanko
+ 
+ 22. puzdro na opasok</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-3-0224-3cn-swisstool-spirit-xbs?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/3.0224.3cn.webp</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>7611160058720</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>3.0224.MN</CODE>
+    <NAME>Victorinox 3.0224.MN SwissTool Spirit MX</NAME>
+    <DESCRIPTION>Multifunkčné náradie obsahuje:
+ 
+ 1. tenké kliešte
+ 
+ 2. veľká uzatváracia čepeľ 
+ 3. otvárač na fľaše so skrutkovačom 
+ 4. nožnice na tenký a mäkký drôt až do 40 HRc
+ 
+ 5. otvárač na konzervy 
+ 6. skrutkovač 6 mm
+ 
+ 7. skrutkovač 3 mm
+ 
+ 8. skrutkovať 2 mm 
+ 9. dierovač, výstružník
+ 
+ 10. viacúčelový hák 
+ 11. nožnice
+ 
+ 12. pílka na drevo
+ 
+ 13. pílka na železo 
+ 14. pilník na železo 
+ 
+ 15. krížový skrutkovač  
+ 16. dláto a škrabka  čepeľ na pozdĺžne rezanie izolácie drôtov
+ 
+ 17. pozdĺžný rezací nôž na káble 
+ 18. priečny rezací nôž na káble  
+ 19. odstraňovač izolácie drôtov 
+ 
+ 20. otvor na pripevnenie vývrtky
+ 
+ 21. otvor na lanko
+ 
+ 22. ohýbač drôtov</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-3-0224-mn-swisstool-spirit-mx?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>159.00</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/sak_3-0224-mn_s5-jpg.webp</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
