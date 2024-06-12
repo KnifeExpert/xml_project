@@ -2587,7 +2587,7 @@
     <ean>7611160007186</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -21790,7 +21790,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160504166</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25402,7 +25402,7 @@ Súprava obshauje:
     <ean>7611160042712</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25894,7 +25894,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean />
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -33978,14 +33978,14 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <description>Mimoriadne obľúbená brúska na kuchynské a čiastočne aj vreckové nože. Má tvarovanú rukovať, ktorá zabezpečuje jednoduchú manipuláciu a zároveň aj dostatočnú ochranu rúk.</description>
     <url>https://vreckovynoz.sk/produkty/kuchynske-noze/ocielky-brusenie/victorinox-7-8715-bruska-na-noze?from=heureka</url>
     <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_326-454-Victorinox-7.8715-bruska-na-noze.jpg</imgurl>
-    <price>22,42</price>
-    <price_vat>26,90</price_vat>
+    <price>23,33</price>
+    <price_vat>28,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean>7611160706003</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35134,7 +35134,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35164,7 +35164,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7612947011716</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -40918,6 +40918,161 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>4.5</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>5.0201</item_id>
+    <productname>Victorinox 5.0201 škrabka na zemiaky</productname>
+    <product>Victorinox 5.0201 škrabka na zemiaky</product>
+    <description>Rozmery: 10 x 149 x 17 mm  Šikovná škrabka na zemiaky z nehrdzavejúcej ocele so špicatým hrotom. Okrem zemiakov je skvelá aj na uhorky a mrkvu, takže domáce práce v kuchyni budú hračkou.</description>
+    <url>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-5-0201-skrabka-na-zemiaky?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/victorinox-5.0201-skrabka-na-zemiaky.webp</imgurl>
+    <price>5,75</price>
+    <price_vat>6,90</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean>7611160500052</ean>
+    <categorytext>E-Shop | Kuchynské nože</categorytext>
+    <productno />
+    <delivery_date>0</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>4.5</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>2.1201.4</item_id>
+    <productname>Mini náradie, 4 kusy</productname>
+    <product>Mini náradie, 4 kusy</product>
+    <description>Potrebujete si upraviť okuliare? Opravujete elektronické zariadenie alebo robíte každodenné opravy? Bez ohľadu na úlohy, ktoré vám deň prinesie, buďte pripravení s našou sadou obsahujúcou štyri kompaktné minináradie. Tieto presné nástroje sú šikovne navrhnuté tak, aby sa zmestili do vývrtky vášho noža, a preto sú vždy po ruke. Môžete si vybrať zo štyroch rôznych inteligentných nástrojov: štrbinový nástroj na upevnenie okuliarov alebo slnečných okuliarov, dva skrutkovače v rôznych veľkostiach a kolík na výmenu SIM karty smartfónu. Ideálny spôsob, ako rozšíriť vlastnosti vášho vreckového noža.  Sada obsahuje:   mini skrutkovač 1,5 mm   kolík na SIM kartu   krížový skrutkovač 000   skrutkovač Torx T4</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/mini-naradie-4-kusy?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/sak_mini-tools_g1-jpg.webp</imgurl>
+    <price>13,33</price>
+    <price_vat>16,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
+    <productno />
+    <delivery_date>0</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>4.5</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>3.0224.3CN</item_id>
+    <productname>Victorinox 3.0224.3CN SwissTool Spirit XBS</productname>
+    <product>Victorinox 3.0224.3CN SwissTool Spirit XBS</product>
+    <description>Multifunkčné náradie obsahuje:
+ 
+ 1. tenké kliešte
+ 
+ 2. veľká uzatváracia čepeľ 
+ 3. otvárač na fľaše so skrutkovačom 
+ 4. nožnice na tenký a mäkký drôt až do 40 HRc
+ 
+ 5. otvárač na konzervy 
+ 6. skrutkovač 6 mm
+ 
+ 7. skrutkovač 2 mm
+ 
+ 8. ohýbač drôtov
+ 
+ 9. dierovač, výstružník
+ 
+ 10. viacúčelový hák 
+ 11. nožnice
+ 
+ 12. pílka na drevo
+ 
+ 13. pílka na železo 
+ 14. pilník na železo 
+ 
+ 15. krížový skrutkovač  
+ 16. dláto a škrabka  čepeľ na pozdĺžne rezanie izolácie drôtov
+ 
+ 17. pozdĺžný rezací nôž na káble 
+ 18. priečny rezací nôž na káble  
+ 19. odstraňovač izolácie drôtov 
+ 
+ 20. otvor na pripevnenie vývrtky
+ 
+ 21. otvor na lanko
+ 
+ 22. puzdro na opasok</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-3-0224-3cn-swisstool-spirit-xbs?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/3.0224.3cn.webp</imgurl>
+    <price>165,83</price>
+    <price_vat>199,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean>7611160058720</ean>
+    <categorytext>E-Shop | Vreckové nože</categorytext>
+    <productno />
+    <delivery_date>14</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>4.5</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>3.0224.MN</item_id>
+    <productname>Victorinox 3.0224.MN SwissTool Spirit MX</productname>
+    <product>Victorinox 3.0224.MN SwissTool Spirit MX</product>
+    <description>Multifunkčné náradie obsahuje:
+ 
+ 1. tenké kliešte
+ 
+ 2. veľká uzatváracia čepeľ 
+ 3. otvárač na fľaše so skrutkovačom 
+ 4. nožnice na tenký a mäkký drôt až do 40 HRc
+ 
+ 5. otvárač na konzervy 
+ 6. skrutkovač 6 mm
+ 
+ 7. skrutkovač 3 mm
+ 
+ 8. skrutkovať 2 mm 
+ 9. dierovač, výstružník
+ 
+ 10. viacúčelový hák 
+ 11. nožnice
+ 
+ 12. pílka na drevo
+ 
+ 13. pílka na železo 
+ 14. pilník na železo 
+ 
+ 15. krížový skrutkovač  
+ 16. dláto a škrabka  čepeľ na pozdĺžne rezanie izolácie drôtov
+ 
+ 17. pozdĺžný rezací nôž na káble 
+ 18. priečny rezací nôž na káble  
+ 19. odstraňovač izolácie drôtov 
+ 
+ 20. otvor na pripevnenie vývrtky
+ 
+ 21. otvor na lanko
+ 
+ 22. ohýbač drôtov</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-3-0224-mn-swisstool-spirit-mx?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/sak_3-0224-mn_s5-jpg.webp</imgurl>
+    <price>132,50</price>
+    <price_vat>159,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
+    <productno />
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
