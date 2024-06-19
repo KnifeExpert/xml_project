@@ -817,41 +817,6 @@
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>0.6223.4</item_id>
-    <productname>Victorinox Classic - zelený</productname>
-    <product>Victorinox Classic - zelený</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ
- 
- 2. pilník na nechty so
- 
- 3. - skrutkovačom
- 
- 4. nožnice
- 
- 5. nerezový krúžok na kľúče
- 
- 6. pinzeta
- 
- 7. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/male-vreckove-noze/victorinox-classic-zeleny?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2019/04/victorinox-classic-sd-zeleny-ruzovy.jpg</imgurl>
-    <price>19,17</price>
-    <price_vat>23,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>0.6223.94</item_id>
     <productname>Victorinox Classic - camo</productname>
     <product>Victorinox Classic - camo</product>
@@ -3915,51 +3880,6 @@
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9563.MWC4</item_id>
-    <productname>Victorinox RangerGrip 179</productname>
-    <product>Victorinox RangerGrip 179</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká zúbkovaná uzatváracia čepeľ s okom pre jednoručné otváranie
- 
- 2. otvárač na konzervy s
- 
- 3. - malým skrutkovačom (aj na krížové skrutky)
- 
- 4. otvárač na fľaše so
- 
- 5. - skrutkovačom, blokovateľným
- 
- 6. - odstraňovačom izolácie drôtov
- 
- 7. pílka na drevo
- 
- 8. dierovač, výstružník
- 
- 9. vývrtka
- 
- 10. nerezový krúžok na kľúče
- 
- 11. pinzeta
- 
- 12. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-179?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_660-877-Victorinox-0.9563.MWC4-RangerGrip-179-vreckovy-noz.jpg</imgurl>
-    <price>70,83</price>
-    <price_vat>85,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044525</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
