@@ -3089,7 +3089,7 @@
     <ean>7611160058478</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -41130,27 +41130,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>3.0339.L</item_id>
-    <productname>Victorinox SwissTool X Plus RATCHET v koženom puzdre</productname>
-    <product>Victorinox SwissTool X Plus RATCHET v koženom puzdre</product>
-    <description>Multifunkčné náradie obsahuje:     1. tenké kliešte     2. skrutkovač 2 mm     3. skrutkovač 3 mm     4. nožnice na tenký a mäkký drôt až do 40 HRc     5. otvárač na fľaše     6. skrutkovač 6 mm     7. páčidlo     8. kombinovaná čepeľ     9. nožnice   10. pilník na železo   11. pílka na železo   12. pílka na drevo   13. dierovač, výstružník   14. krížový skrutkovač 1+2   15. dláto a škrabka   16. čepeľ na pozdĺžne rezanie izolácie drôtov   17. ohýbač drôtov   18. odstraňovač izolácie drôtov   19. čepeľ na točité rezanie izolácie drôtov   20. otvárač na konzervy   21. viacúčelový hák   22. kožené puzdro   23. otvor na pripevnenie vývrtky   24. nožnice na tvrdý drôt   25. otvor na lanko   26. desať samostatných pružín   27. poistka   28. obal na príslušenstvo   29. rotačný kľúč (30 Nm)   30. - šesťhranný bit 3   31. - šesťhranný bit 4   32. - krížový bit 0   33. - krížový bit 3   34. - momentový bit 10   35. - momentový bit 15   36. voľné pozície pre ďaľšie bity   37. mini skrutkovač   38. vývrtka   39. rozširovacia tyč</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-swisstool-x-plus-ratchet-v-kozenom-puzdre-5356?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_199-306-Victorinox-3.0339.L-SwissTool-Plus-v-kozenom-puzdre.jpg</imgurl>
-    <price>232,50</price>
-    <price_vat>279,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160006608</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>3.0236.N</item_id>
     <productname>Victorinox SwissTool Spirit X Plus RATCHET v nylonovom puzdre</productname>
     <product>Victorinox SwissTool Spirit X Plus RATCHET v nylonovom puzdre</product>
@@ -41479,7 +41458,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>3.0340.3B1</item_id>
+    <item_id>3.0340.B1</item_id>
     <productname>Victorinox 3.0340.3B1 Clip SwissTool Spirit BS</productname>
     <product>Victorinox 3.0340.3B1 Clip SwissTool Spirit BS</product>
     <description>Rozmery: 15 x 59 x 17 mm  Vyrobené zo švajčiarskej nehrdzavejúcej ocele.</description>
@@ -41487,27 +41466,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <imgurl>https://vreckovynoz.sk/files/products/3.0340.3b1.webp</imgurl>
     <price>15,75</price>
     <price_vat>18,90</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>3.0240.B1</item_id>
-    <productname>Victorinox 3.0240.B1 Clip SwissTool Spirit BS</productname>
-    <product>Victorinox 3.0240.B1 Clip SwissTool Spirit BS</product>
-    <description>Rozmery: 19 x 59 x 15 mm  Vyrobené zo švajčiarskej nehrdzavejúcej ocele.</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/swisstool/victorinox-3-0240-b1-clip-swisstool-spirit-bs-f8ec?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/3.0240.b1.webp</imgurl>
-    <price>15,00</price>
-    <price_vat>18,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
