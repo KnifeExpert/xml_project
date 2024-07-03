@@ -211,7 +211,7 @@
     <ean>7611160015358</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -403,7 +403,7 @@
     <ean>7611160000231</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -521,7 +521,7 @@
     <ean>7613329118979</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -704,7 +704,7 @@
     <ean>7611160206848</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1002,7 +1002,7 @@
     <ean>7611160161703</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1160,7 +1160,7 @@
     <ean>7611160013422</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1181,7 +1181,7 @@
     <ean>7611160046994</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1202,7 +1202,7 @@
     <ean>7611160009913</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1669,7 +1669,7 @@
     <ean>7611160013590</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1690,7 +1690,7 @@
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -2392,7 +2392,7 @@
     <ean>7611160059017</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -2478,7 +2478,7 @@
     <ean>7611160058386</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -2552,7 +2552,7 @@
     <ean>7611160007186</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -2623,47 +2623,6 @@
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.8461.MW4DE</item_id>
-    <productname>Victorinox Bundeswehr 0.8461.MW4DE</productname>
-    <product>Victorinox Bundeswehr 0.8461.MW4DE</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká zúbkovaná uzatváracia čepeľ s okom pre jednoručné otváranie
- 
- 2. krížový skrutkovač
- 
- 3. otvárač na konzervy s
- 
- 4. - malým skrutkovačom (aj na krížové skrutky)
- 
- 5. otvárač na fľaše so
- 
- 6. - skrutkovačom
- 
- 7. - odstraňovačom izolácie drôtov
- 
- 8. dierovač, výstružník
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pílka na drevo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-bundeswehr-0-8461-mw4de?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_99-2019-Victorinox-0.8461.MW4DE-Bundeswehr-vreckovy-noz.jpg</imgurl>
-    <price>42,50</price>
-    <price_vat>51,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -2928,7 +2887,7 @@
     <ean>7611160061447</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3511,7 +3470,7 @@
     <ean>7611160228789</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11014,7 +10973,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100016</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11076,7 +11035,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100092</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11254,7 +11213,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160104250</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11275,7 +11234,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160105943</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11317,7 +11276,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160015471</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11422,7 +11381,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100214</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11471,7 +11430,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100221</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11658,7 +11617,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160060631</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11811,7 +11770,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100306</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -12054,7 +12013,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100344</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -12722,7 +12681,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100641</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -12902,7 +12861,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160106964</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -13105,7 +13064,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160105936</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15425,7 +15384,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160301789</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15509,7 +15468,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160006608</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -16327,7 +16286,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160400857</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -16390,7 +16349,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160406422</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -16711,7 +16670,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160004239</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -16942,7 +16901,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160415912</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17047,7 +17006,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160404640</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17145,7 +17104,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160063991</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17806,7 +17765,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean />
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18425,7 +18384,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160501417</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18698,7 +18657,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506016</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18887,7 +18846,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506023</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18908,7 +18867,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506030</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18951,7 +18910,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160501905</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -19184,7 +19143,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160502124</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20335,7 +20294,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160509376</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20357,7 +20316,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160509390</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20705,7 +20664,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160503718</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -21200,7 +21159,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160503862</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -21445,7 +21404,7 @@ Naše nové nože Fibrox Dual Grip určené pre profesionálnych mäsiarov a
     <ean>7611160064264</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -22168,7 +22127,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160045126</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -22273,7 +22232,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160045171</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -22294,7 +22253,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160045188</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -22506,7 +22465,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160045300</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -23741,7 +23700,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>6.7113</item_id>
+    <item_id>6.7113.6G</item_id>
     <productname>Sada nožov Swiss Classic so škrabkou 6 dielna</productname>
     <product>Sada nožov Swiss Classic so škrabkou 6 dielna</product>
     <description>Súprava profesionálnych kuchynských nožov je základným kameňom každej kuchyne a podporuje všetku kulinársku kreativitu. Každý kuchár ocení, ak čepele režú tak, ako majú a bude radosť ich používať.
@@ -23777,7 +23736,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160056498</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -23829,7 +23788,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160053046</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24225,7 +24184,7 @@ Súprava obshauje:
     <ean>7611160058942</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24330,7 +24289,7 @@ Súprava obshauje:
     <ean>7611160003157</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24414,7 +24373,7 @@ Súprava obshauje:
     <ean>7611160032454</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24456,7 +24415,7 @@ Súprava obshauje:
     <ean>7611160032461</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24939,7 +24898,7 @@ Súprava obshauje:
     <ean>7611160026439</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25122,7 +25081,7 @@ Súprava obshauje:
     <ean>7611160057921</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25165,7 +25124,7 @@ Súprava obshauje:
     <ean>7611160040442</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25277,7 +25236,7 @@ Súprava obshauje:
     <ean>7611160042712</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25409,7 +25368,7 @@ Súprava obshauje:
     <ean>7611160043542</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25453,7 +25412,7 @@ Súprava obshauje:
     <ean>7611160019790</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -26000,7 +25959,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160019851</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -26108,7 +26067,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160038319</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -27723,38 +27682,6 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>604551</item_id>
-    <productname>Wenger Univerzálny cestovný adaptér</productname>
-    <product>Wenger Univerzálny cestovný adaptér</product>
-    <description>Zostaňte v spojení 24 hodín denne, 7 dní v týždni, kdekoľvek vás zavedú vaše globálne dobrodružstvá.   Náš univerzálny cestovný adaptér udržuje napájanie zapnuté v akomkoľvek časovom pásme.   Nabíjajte všetky svoje elektrické zariadenia bez námahy vďaka tomuto dôvtipnému multitaskeru, ktorý je pripravený na pripojenie vo viac ako 200 krajinách.   Od tabletu a smartfónu až po zubnú kefku, slúchadlá, fén a fitness tracker, tento kompaktný adaptér ich napája. 
-  
-      Výška  
-  8 cm   
-   Dĺžka  
-  5 cm   
-   šírka  
-  4 cm   
-   Hmotnosť  
-  0,1 kg      
-          Farba  
-  čierna</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/wenger-kufre-a-tasky/wenger-univerzalny-cestovny-adapter?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRT_604551_S_PO.jpg</imgurl>
-    <price>10,00</price>
-    <price_vat>12,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>604563</item_id>
     <productname>Wenger Travel Sentry Approved 3-Dial Combination Lock</productname>
     <product>Wenger Travel Sentry Approved 3-Dial Combination Lock</product>
@@ -28145,7 +28072,7 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <ean />
     <categorytext>E-Shop</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -28805,7 +28732,7 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <ean>7613329077603</ean>
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -30202,7 +30129,7 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <ean>7613329169896</ean>
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -32337,7 +32264,7 @@ Obojstranná čepeľ s ergonomickou rukoväťou a kvalitným zúbkovaným ostrí
     <ean>7611160705174</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -33671,7 +33598,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160705051</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34372,7 +34299,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804570</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34414,7 +34341,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804655</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34813,7 +34740,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804167</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34834,7 +34761,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804495</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34855,7 +34782,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804686</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35009,7 +34936,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35039,7 +34966,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7612947011716</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -36204,7 +36131,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7613329169414</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -39625,7 +39552,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -39688,7 +39615,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160005564</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -40891,7 +40818,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160058720</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -41185,7 +41112,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
