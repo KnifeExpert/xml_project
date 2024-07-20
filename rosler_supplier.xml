@@ -2308,7 +2308,7 @@
     <ean>7611160058157</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18193,7 +18193,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160501301</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20800,7 +20800,7 @@ Naše nové nože Fibrox Dual Grip určené pre profesionálnych mäsiarov a
     <ean>7611160064202</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -41668,6 +41668,32 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <manufacturer>Victorinox</manufacturer>
     <ean />
     <categorytext>E-Shop | Kuchynské nože</categorytext>
+    <productno />
+    <delivery_date>0</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>4.5</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>0.8271.J24</item_id>
+    <productname>Victorinox Farmer X Alox Damast 0.8271.J24</productname>
+    <product>Victorinox Farmer X Alox Damast 0.8271.J24</product>
+    <description>Zoznámte sa s 15. edíciou limitovanej edície Damast. Nôž Farmer X Alox Damast je výnimočným kúskom precízneho remeselného spracovania, kde bol zmysel pre detail venovaný každému jednému náročnému prvku. Vďaka čepeli vyrobenej z odolného materiálu Damasteel® sa nachádza na vrchole škály odolnosti materiálov. Je zhotovená zo 115 vrstiev v unikátnom vzore typu „Hakkapella“, pričom jej stupeň tvrdosti dosahuje 60 HRC.   Tento multifunkčný vreckový nôž má všetko zabudované v kompaktnom, úzkom prevedení. Zhotovený a skonštruovaný je s dôrazom na odolnosť a trvácnosť, pričom sa dokáže pustiť do boja s množstvom rozličných úloh – a vyhrať. Od rezania, pílenia konárov, otvárania konzerv alebo odizolovania káblov, tento pomocník s veľkosťou čepele 93 mm zvládne všetko bez námahy.
+  Jeho črienky sú vyrobené z aloxovaného hliníku a odolnosť je od srdca v jeho samotnej DNA.
+     Vreckový nôž obsahuje:
+  1. uzatváracia čepeľ
+  2. nerezový krúžok na kľúče  3. otvárač na korunkové uzávery so  4. - skrutkovačom7 mm  5. - odstraňovačom izolácie drôtov 
+  6. otvárač na konzervy so  7. - skrutkovačom 3 mm  8. dierovač, výstružník  9. nožnice  10. pílka na drevo</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-farmer-x-alox-damast-0-8271-j24?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/2024/limited/sak_0-8271-j24_b2io%3dtransformfit,width1100,height830%26quality%3d80_9dbc3.jpeg</imgurl>
+    <price>232,50</price>
+    <price_vat>279,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
     <delivery>
