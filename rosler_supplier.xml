@@ -15833,64 +15833,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>31170801</item_id>
-    <productname>Mini dáždnik</productname>
-    <product>Mini dáždnik</product>
-    <description>Špecifikácia:      - Rám vyrobený z hliníku, laminátu a tvrdeného plastu je pevný a ľahký.       - Ideálna veľkosť na nosenie so sebou.       - Po otvorení dosahuje priemer 97 cm   .      - Ochranné puzdro.                     Rozmery: 6x19x6 cm (ŠxVxH)     Váha: 0,18 kg</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/mini-dazdnik?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/08/p_982-1422-Mini-dazdnik.jpg</imgurl>
-    <price>26,25</price>
-    <price_vat>31,50</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>31170803</item_id>
-    <productname>Mini dáždnik</productname>
-    <product>Mini dáždnik</product>
-    <description>Špecifikácia:
- 
- - Rám vyrobený z hliníku, laminátu a tvrdeného plastu je pevný a ľahký.
- 
- - Ideálna veľkosť na nosenie so sebou.
- 
- - Po otvorení dosahuje priemer 97 cm.
- 
- - Ochranné puzdro.
-  
- 
-  
-  
- 
- Rozmery: 6x19x6 cm (ŠxVxH)
- 
- Váha: 0,18 kg</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/mini-dazdnik-87b9?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/08/p_983-1424-Mini-dazdnik.jpg</imgurl>
-    <price>26,25</price>
-    <price_vat>31,50</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>31171801</item_id>
     <productname>Bezpečnostný pás s RFID ochranou</productname>
     <product>Bezpečnostný pás s RFID ochranou</product>
@@ -22178,7 +22120,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160045164</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
