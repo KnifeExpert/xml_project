@@ -11264,7 +11264,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100146</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -13896,27 +13896,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>241710</item_id>
-    <productname>Victorinox 241710 AirBoss Mach 9 hodinky</productname>
-    <product>Victorinox 241710 AirBoss Mach 9 hodinky</product>
-    <description>Špecifikácia:       Mechanický samonaťahovací strojček ETA Valjoux 7750     Puzdro z ušľachtilej ocele 316L     Priemer puzdra: ø 45m     Obojsmerne otočná luneta s odpočtovou škálou     Čiastočne priehľadný spodný skrutkovaný kryt puzdra     Skrutkovateľné korunky        Vodotesnosť: 100 M (10 ATM)     Poškriabaniu odolné trojvrstvové antireflexné zafírové sklíčko    Vojenský čas indikovaný na spodnej strane sklíčka    Luminiscenčné ručičky a číslice     Kožený remienok so samoupínacou sponou          Funkcie chronografu:       Samostatná ručička sekundového počítania    60 s, 30 min. a 12 h počítadlá           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/victorinox-241710-airboss-mach-9-hodinky?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2015/12/p_797-1115-Victorinox-241710-AirBoss-Mach-9-hodinky.jpg</imgurl>
-    <price>1829,17</price>
-    <price_vat>2195,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7630000720184</ean>
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -34824,7 +34803,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160801548</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -40296,7 +40275,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160058317</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
