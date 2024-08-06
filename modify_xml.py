@@ -50,7 +50,7 @@ def convert_feed(input_file, output_file):
             availability_new = ET.SubElement(shopitem, "AVAILABILITY")
             negative_amount = ET.SubElement(shopitem, "NEGATIVE_AMOUNT")
             if availability_elem.text.lower() == 'in stock':
-                availability_new.text = "3-7 dní"
+                availability_new.text = "7-11 dní"
                 negative_amount.text = "1"  # Zmena: nákup do mínusu povolený
             else:
                 availability_new.text = "Na dotaz"
