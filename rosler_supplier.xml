@@ -314,7 +314,7 @@
     <ean>7611160002235</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -424,7 +424,7 @@
     <ean>7611160002242</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15841,27 +15841,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <imgurl>https://vreckovynoz.sk/files/products/2016/08/p_1011-1500-Victorinox-31171808-Bezpecnostny-pas-s-RFID-ochranou.jpg</imgurl>
     <price>18,67</price>
     <price_vat>22,40</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>31172901</item_id>
-    <productname>Slimline kozmetická taška</productname>
-    <product>Slimline kozmetická taška</product>
-    <description>Špecifikácia:     - Antibakteriálne prevedenie priečinku na zubné kefky zo strieborných vlákien zabraňuje vzniku pachu a tvorbe baktérií.     - Hlavný priečinok obsahuje oddelené sieťovinové vrecká, zipsovateľné vrecko a vodeodolný priestor s jednoduchým prístupom  .     - Vyberateľný vešiak na jednoduché zavesenie kozmetickej tašky na sprchu alebo pútko na uteráky.     - Horná rukoväť zabezpečuje jednoduchý transport  .                Rozmery: 25x15x6 cm (ŠxVxH)     Váha: 0,2 kg     Objem: 2 l           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/slimline-kozmeticka-taska?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/08/p_1026-1530-Victorinox-31172901-Slimline-kozmeticka-taska.jpg</imgurl>
-    <price>28,58</price>
-    <price_vat>34,30</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
@@ -39119,34 +39098,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
  0,3 kg</description>
     <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/travel-accessories/ta-5-0-zip-around-travel-kit-black?from=heureka</url>
     <imgurl>https://vreckovynoz.sk/files/products/2023/11/TGE_610608_S_FR.webp</imgurl>
-    <price>58,33</price>
-    <price_vat>70,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>610609</item_id>
-    <productname>TA 5.0, Hanging Toiletry Kit, Black</productname>
-    <product>TA 5.0, Hanging Toiletry Kit, Black</product>
-    <description>Uložte a zorganizujte si toaletné potreby v plnej veľkosti   Antibakteriálna podšívka, ktorá sa ľahko čistí   Háčik na zavesenie 
-  
-     Číslo položky 
- 610609  
-  Veľkosť 
- 11 x 24 x 23 cm  
-  Hmotnosť 
- 0,3 kg</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/travel-accessories/ta-5-0-hanging-toiletry-kit-black?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/11/TGE_610609_S_FR.webp</imgurl>
     <price>58,33</price>
     <price_vat>70,00</price_vat>
     <item_type>new</item_type>
