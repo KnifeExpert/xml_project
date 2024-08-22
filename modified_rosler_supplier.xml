@@ -614,8 +614,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>21.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -876,8 +876,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>11.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -29643,65 +29643,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://vreckovynoz.sk/files/products/2016/08/p_1011-1500-Victorinox-31171808-Bezpecnostny-pas-s-RFID-ochranou.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>31172901</CODE>
-    <NAME>Slimline kozmetická taška</NAME>
-    <DESCRIPTION>Špecifikácia:     - Antibakteriálne prevedenie priečinku na zubné kefky zo strieborných vlákien zabraňuje vzniku pachu a tvorbe baktérií.     - Hlavný priečinok obsahuje oddelené sieťovinové vrecká, zipsovateľné vrecko a vodeodolný priestor s jednoduchým prístupom  .     - Vyberateľný vešiak na jednoduché zavesenie kozmetickej tašky na sprchu alebo pútko na uteráky.     - Horná rukoväť zabezpečuje jednoduchý transport  .                Rozmery: 25x15x6 cm (ŠxVxH)     Váha: 0,2 kg     Objem: 2 l           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/slimline-kozmeticka-taska?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>34.30</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2016/08/p_1026-1530-Victorinox-31172901-Slimline-kozmeticka-taska.jpg</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
@@ -89707,72 +89648,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://vreckovynoz.sk/files/products/2023/11/TGE_610608_S_FR.webp</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>610609</CODE>
-    <NAME>TA 5.0, Hanging Toiletry Kit, Black</NAME>
-    <DESCRIPTION>Uložte a zorganizujte si toaletné potreby v plnej veľkosti   Antibakteriálna podšívka, ktorá sa ľahko čistí   Háčik na zavesenie 
-  
-     Číslo položky 
- 610609  
-  Veľkosť 
- 11 x 24 x 23 cm  
-  Hmotnosť 
- 0,3 kg</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/travel-accessories/ta-5-0-hanging-toiletry-kit-black?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>70.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kufre a cestovné tašky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2023/11/TGE_610609_S_FR.webp</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
