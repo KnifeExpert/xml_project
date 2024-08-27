@@ -10,8 +10,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>29.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -16369,122 +16369,6 @@ Zamilujte sa do života s kolekciou Metropolitan Donnissima. Tieto hodinky, ktor
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>01.1731.113</CODE>
-    <NAME>Wenger Metropolitan Donnissima 01.1731.113</NAME>
-    <DESCRIPTION>Dámske hodinky s kryštálmi Swarovski 
-  
-Zamilujte sa do života s kolekciou Metropolitan Donnissima. Tieto hodinky, ktoré sú sebavedome súčasné a zároveň nadčasovo krásne, vyžarujú radosť zo života s každým úderom. Každý kus je zdobený trblietavými kryštálmi Swarovski, pričom chýbajúca značka troch hodín predstavuje úchvatnú pauzu. Ide o žiarivú kolekciu, ktorá dokonale spája moderný dizajn s dokonalou presnosťou a pozýva každého jednotlivca, aby sa pustil do nového milostného vzťahu so svojimi hodinkami. Štíhle 38 mm puzdro a minimalistický dizajn ciferníka sú kompenzované záhadne strakatým pozadím, zatiaľ čo elegantné paralelné výstupky udržujú veci v bezpečí.
- 
-  
-      Vlastnosti:   
-         Výška 
- 8 mm  
-  Hmotnosť 
- 57 g  
-  Šírka očka 
- 17 mm  
-  Priemer 
- 38 mm  
-  Utesnenie puzdra 
- Skrutkovacie puzdro  
-  Chronograf 
- Nie  
-  Funkcia alarmu 
- Nie  
-  Uzavretie 
- Posuvná pracka  
-  Otočenie rámu 
- Pevný rám  
-  Odpočítavač času 
- Nie  
-  Dátum 
- Nie  
-  Podsvietenie ciferníka 
- Nie  
-  Luminiscenčné ručičky 
- Nie  
-  Typ pohybu 
- Analógový kremeň  
-  Druhé časové pásmo 
- Nie  
-  Odolnosť voči vode 
- 10 ATM/100 M/330 FT  
-  Povrchová úprava rámu 
- Leštené  
-  Materiál obruby 
- Nehrdzavejúca oceľ  
-  Materiál náramku 
- Sieťovina  
-  Materiál zadnej časti puzdra 
- Nehrdzavejúca oceľ  
-  Materiál puzdra 
- Nehrdzavejúca oceľ  
-  Dokončenie číselníka 
- Zrnitý  
-  Farba puzdra 
- Ružové zlato  
-  Farba obruby 
- Ružové zlato  
-  Farba ciferníka 
- čierna  
-  Farba náramku 
- čierna</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/hodinky/damske-hodinky/wenger-metropolitan-donnissima-01-1731-113?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>219.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Hodinky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2023/05/01.1731.113.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>01.1731.114</CODE>
     <NAME>Wenger Metropolitan Donnissima 01.1731.114</NAME>
     <DESCRIPTION>Dámske hodinky s kryštálmi Swarovski 
@@ -19446,89 +19330,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>1.3603.2</CODE>
-    <NAME>Victorinox Spartan - modrý 1.3603.2</NAME>
-    <DESCRIPTION>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. uzatváracia čepeľ malá
- 
- 3. vývrtka
- 
- 4. otvárač na konzervy s
- 
- 5. - malým skrutkovačom (aj na krížové skrutky)
- 
- 6. otvárač na fľaše so
- 
- 7. - skrutkovačom
- 
- 8. - odstraňovačom izolácie drôtov
- 
- 9. dierovač, výstružník
- 
- 10. nerezový krúžok na kľúče
- 
- 11. pinzeta
- 
- 12. špáradlo</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-spartan-modry-1-3603-2?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>27.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2014/08/p_743-1000-Victorinox-1.3603.2-Spartan-vreckovy-noz.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160104960</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>1.3603.3</CODE>
     <NAME>Victorinox Spartan - čierny</NAME>
     <DESCRIPTION>Vreckový nôž obsahuje:     1. uzatváracia čepeľ veľká     2. uzatváracia čepeľ malá     3. vývrtka     4. otvárač na konzervy s     5. - malým skrutkovačom (aj na krížové skrutky)     6. otvárač na fľaše so     7. - skrutkovačom     8. - odstraňovačom izolácie drôtov     9. dierovač, výstružník   10. nerezový krúžok na kľúče   11. pinzeta   12. špáradlo</DESCRIPTION>
@@ -21632,8 +21433,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>79.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -21715,8 +21516,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>27.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -35658,8 +35459,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>59.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -43905,65 +43706,6 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>5.6616.15</CODE>
-    <NAME>Victorinox 5.6616.15 vykosťovací nôž</NAME>
-    <DESCRIPTION>Vykosťovací nôž s drevenou palisandrovou rukoväťou a dĺžkou flexibilnej čepele 15 cm.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/palisander-drevene-rukovate/victorinox-5-6616-15-vykostovaci-noz?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>39.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2019/08/Victorinox-5.6606.12-vykosťovací-nôž.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160503893</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>5.6618.12M</CODE>
     <NAME>Victorinox 5.6618.12M kuchynský nôž Fibrox safety grip -  vykosťovací/filetovací 12 cm žltý</NAME>
     <DESCRIPTION>Priekopnícky vynález menom Fibrox  
@@ -50617,8 +50359,8 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>17.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -52280,8 +52022,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>10.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -52398,8 +52140,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>10.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -56012,8 +55754,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>69.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -72880,66 +72622,6 @@ Obojstranná čepeľ s ergonomickou rukoväťou a kvalitným zúbkovaným ostrí
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160703774</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>7.7093.0</CODE>
-    <NAME>Victorinox 7.7093.0 drevený stojan na nože</NAME>
-    <DESCRIPTION>Držiak na nože pre 6 ks nožov, nožnice, ocieľku a vidličku.    Prevedenie drevo.
-    Dodávané bez nožov.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/supravy-kuchynskych-nozov/victorinox-7-7093-0-dreveny-stojan-na-noze?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>45.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2019/08/Victorinox-7.7093.0-drevený-stojan-na-nože.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
