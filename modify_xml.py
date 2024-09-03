@@ -1,12 +1,17 @@
 from lxml import etree as ET
 
-def convert_feed(input_file, output_file):
+def convert_feed(input_file, output_file, allowed_brands):
     tree = ET.parse(input_file)
     root = tree.getroot()
 
     shop = ET.Element("SHOP")
 
     for entry in root.findall("{http://www.w3.org/2005/Atom}entry"):
+        # Filtrovanie podľa značky
+        brand_elem = entry.find("{http://base.google.com/ns/1.0}brand")
+        if brand_elem is None or brand_elem.text not in allowed_brands:
+            continue  # Ak značka nie je v povolených, preskoč túto položku
+
         shopitem = ET.SubElement(shop, "SHOPITEM")
 
         id_elem = entry.find("{http://base.google.com/ns/1.0}id")
@@ -68,7 +73,6 @@ def convert_feed(input_file, output_file):
             image_new = ET.SubElement(images_new, "IMAGE")
             image_new.text = image_link_elem.text
 
-        brand_elem = entry.find("{http://base.google.com/ns/1.0}brand")
         if brand_elem is not None:
             brand_new = ET.SubElement(shopitem, "MANUFACTURER")
             brand_new.text = brand_elem.text
@@ -108,11 +112,11 @@ def convert_feed(input_file, output_file):
     tree_new = ET.ElementTree(shop)
     tree_new.write(output_file, pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
+# Definuj konkrétne značky, ktoré chceš filtrovať
+allowed_brands = ["Boker Arbolito", "Boker Manufaktur", "Boker Manufaktur Solingen", "Boker Plus", "Victorinox"]
+
 input_file = 'supplier.xml'
 output_file = 'modified_supplier.xml'
 
-convert_feed(input_file, output_file)
+convert_feed(input_file, output_file, allowed_brands)
 print(f"Feed bol konvertovaný a uložený ako '{output_file}'.")
-
-
-
