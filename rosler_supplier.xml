@@ -1147,32 +1147,6 @@
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>0.6453</item_id>
-    <productname>Victorinox Nail Clip 582</productname>
-    <product>Victorinox Nail Clip 582</product>
-    <description>Vreckový pomocník obsahuje:
-  
-  	 špáradlo 
-  	 pinzetu 
-  	 nožnice na nechty 
-  	 krúžok na kľúče</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/male-vreckove-noze/victorinox-nail-clip-582?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2018/11/Victorinox-Nail-Clip-582.jpg</imgurl>
-    <price>22,50</price>
-    <price_vat>27,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044334</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>0.6461.63</item_id>
     <productname>Victorinox NailClip Wood 580</productname>
     <product>Victorinox NailClip Wood 580</product>
@@ -2081,39 +2055,6 @@
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>0.8303.W</item_id>
-    <productname>Victorinox Cheese Knife</productname>
-    <product>Victorinox Cheese Knife</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká zúbkovaná uzatváracia čepeľ
- 
- 2. čepeľ s nepriľnavou úpravou na krájanie syra a napichovátkom
- 
- 3. vývrtka
- 
- 4. nerezový krúžok na kľúče
- 
- 5. pinzeta
- 
- 6. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-cheese-knife?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2013/03/p_482-2027-Victorinox-0.8303.W-Cheese-Knife-vreckovy-noz.jpg</imgurl>
-    <price>35,83</price>
-    <price_vat>43,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>0.8341.MC9</item_id>
     <productname>Victorinox Hunter XT GRIP 0.8341.MC9</productname>
     <product>Victorinox Hunter XT GRIP 0.8341.MC9</product>
@@ -2454,90 +2395,6 @@
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.8453</item_id>
-    <productname>Victorinox Adventurer</productname>
-    <product>Victorinox Adventurer</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ
- 
- 2. krížový skrutkovač
- 
- 3. otvárač na konzervy s
- 
- 4. - malým skrutkovačom (aj na krížové skrutky)
- 
- 5. otvárač na fľaše so
- 
- 6. - skrutkovačom
- 
- 7. - odstraňovačom izolácie drôtov
- 
- 8. dierovač, výstružník
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pinzeta
- 
- 11. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-adventurer?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_114-2016-Victorinox-0.8453-Adventurer-vreckovy-noz.jpg</imgurl>
-    <price>37,50</price>
-    <price_vat>45,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160058171</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.8461.MWC941</item_id>
-    <productname>Victorinox Trailmaster One Hand</productname>
-    <product>Victorinox Trailmaster One Hand</product>
-    <description>Vreckový nôž kolekcie Desert Camouflage obsahuje:
- 
- 1. veľká  zúbkovaná uzatváracia čepeľ s okom pre jednoručné otváranie
- 
- 2. krížový skrutkovač
- 
- 3. otvárač na konzervy s
- 
- 4. - malým skrutkovačom (aj na krížové skrutky)
- 
- 5. otvárač na fľaše so
- 
- 6. - skrutkovačom
- 
- 7. - odstraňovačom izolácie drôtov
- 
- 8. dierovač, výstružník
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pílka na drevo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-trailmaster-one-hand?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/10/p_1039-1558-Victorinox-0.8461.MWC941-Trailmaster-vreckovy-noz.jpg</imgurl>
-    <price>42,50</price>
-    <price_vat>51,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160056221</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3344,38 +3201,7 @@
     <ean>7611160228789</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9523.C</item_id>
-    <productname>Victorinox RangerGrip 52</productname>
-    <product>Victorinox RangerGrip 52</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ
- 
- 2. vývrtka
- 
- 3.   nerezový krúžok na kľúče  
- 
-   4. pinzeta  
- 
-   5. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-52?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_639-855-Victorinox-0.9523.C-RangerGrip-52-vreckovy-noz.jpg</imgurl>
-    <price>42,50</price>
-    <price_vat>51,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044440</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3407,135 +3233,6 @@
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9553.C</item_id>
-    <productname>Victorinox RangerGrip 68</productname>
-    <product>Victorinox RangerGrip 68</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ
- 
- 2. otvárač na konzervy s
- 
- 3. - malým skrutkovačom (aj na krížové skrutky)
- 
- 4. otvárač na fľaše so
- 
- 5. - skrutkovačom, blokovateľným
- 
- 6. - odstraňovačom izolácie drôtov
- 
- 7. dierovač, výstružník
- 
- 8. vývrtka
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pinzeta
- 
- 11. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-68?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_654-871-Victorinox-0.9553.C-RangerGrip-68-vreckovy-noz.jpg</imgurl>
-    <price>57,50</price>
-    <price_vat>69,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044464</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9553.MC</item_id>
-    <productname>Victorinox RangerGrip 61</productname>
-    <product>Victorinox RangerGrip 61</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ s okom pre jednoručné otváranie
- 
- 2. otvárač na konzervy s
- 
- 3. - malým skrutkovačom (aj na krížové skrutky)
- 
- 4. otvárač na fľaše so
- 
- 5. - skrutkovačom, blokovateľným
- 
- 6. - odstraňovačom izolácie drôtov
- 
- 7. dierovač, výstružník
- 
- 8. vývrtka
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pinzeta
- 
- 11. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-61?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_655-872-Victorinox-0.9553.MC-RangerGrip-61-vreckovy-noz.jpg</imgurl>
-    <price>57,50</price>
-    <price_vat>69,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044471</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9553.MC4</item_id>
-    <productname>Victorinox RangerGrip 61 - zelený</productname>
-    <product>Victorinox RangerGrip 61 - zelený</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ s okom pre jednoručné otváranie
- 
- 2. otvárač na konzervy s
- 
- 3. - malým skrutkovačom (aj na krížové skrutky)
- 
- 4. otvárač na fľaše so
- 
- 5. - skrutkovačom, blokovateľným
- 
- 6. - odstraňovačom izolácie drôtov
- 
- 7. dierovač, výstružník
- 
- 8. vývrtka
- 
- 9. nerezový krúžok na kľúče
- 
- 10. pinzeta
- 
- 11. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-61-zeleny?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_656-873-Victorinox-0.9553.MC4-RangerGrip-61-vreckovy-noz.jpg</imgurl>
-    <price>57,50</price>
-    <price_vat>69,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044488</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3825,7 +3522,7 @@
     <ean>7611160060051</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3844,41 +3541,6 @@
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean>7611160060068</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>0.9713.C</item_id>
-    <productname>Victorinox RangerGrip 71 Gardener</productname>
-    <product>Victorinox RangerGrip 71 Gardener</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. veľká uzatváracia čepeľ
- 
- 2. pílka na drevo
- 
- 3. extra pevné nožnice, mechanizmus s pákovým kĺbom
- 
- 4. vývrtka
- 
- 5. nerezový krúžok na kľúče
- 
- 6. pinzeta
- 
- 7. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/velke-vreckove-noze/victorinox-rangergrip-71-gardener?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/05/p_668-885-Victorinox-0.9713.C-RangerGrip-71-Gardener-vreckovy-noz.jpg</imgurl>
-    <price>99,17</price>
-    <price_vat>119,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044600</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
@@ -6329,27 +5991,6 @@ Attitude drží krok s vaším dňom, od multitaskingu v kancelárii až po nač
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>01.1541.123</item_id>
-    <productname>Wenger Attitude 01.1541.123</productname>
-    <product>Wenger Attitude 01.1541.123</product>
-    <description>Multitaskingové hodinky so zobrazením dátumu dňa   Attitude drží krok s vaším dňom, od multitaskingu v kancelárii až po načasovanie osobných rekordov vo vašich tréningoch. Vďaka presne umiestneným čísliciam, dennému dátumu a vynikajúcej nočnej čitateľnosti vďaka detailom vylepšeným SuperLuminova® sú to hodinky, ktoré znamenajú biznis. Keď sa o spoľahlivosti a výdrži nedá vyjednávať, Attitude je nepostrádateľným pomocníkom, ktorý vám pomôže hladko prebehnúť deň a dodá vášmu zápästiu náročnú eleganciu.    Vlastnosti:        Rozmery:      Výška  9 mm    Hmotnosť  61 g    Šírka očka  22 mm    Priemer  42 mm       Podrobnosti:        Utesnenie puzdra  Skrutkovacie puzdro     Chronograf  Nie     Uzavretie  Bežná spona     Otočenie rámu  Pevný rám     Odpočítavač času  Nie     Dátum  Áno     Podsvietenie ciferníka  Nie     Luminiscenčné ručičky  Áno     Typ pohybu  Analógový      Druhé časové pásmo  Nie     Odolnosť voči vode  10 ATM/100 M/330 FT        Materiály:        Povrchová úprava rámu  Kartáčovaný     Materiál obruby  Nehrdzavejúca oceľ     Materiál náramku  Kožené     Materiál zadnej časti puzdra  Nehrdzavejúca oceľ     Materiál puzdra  Nehrdzavejúca oceľ     Dokončenie číselníka  Slnečný lúč vyčesaný        Farby:        Farba puzdra  Bronzová     Farba obruby  Čierny ľad     Farba ciferníka  Šedá     Farba náramku  Hnedá</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/wenger-attitude-01-1541-123?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRW_01-1541-123_S_PO.jpg</imgurl>
-    <price>182,50</price>
-    <price_vat>219,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>01.1541.124</item_id>
     <productname>Wenger Attitude 01.1541.124</productname>
     <product>Wenger Attitude 01.1541.124</product>
@@ -7087,27 +6728,6 @@ Línia Attitude sa netají svojím vrodeným dynamickým charakterom s bujnou vi
     <imgurl>https://vreckovynoz.sk/files/products/2023/05/01.1543.115.jpg</imgurl>
     <price>282,50</price>
     <price_vat>339,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>01.1543.117</item_id>
-    <productname>Wenger Attitude Chrono 01.1543.117</productname>
-    <product>Wenger Attitude Chrono 01.1543.117</product>
-    <description>Retro-inšpirované hodinky Chrono   Náš quartzový chronograf Attitude s robustným, športovým vzhľadom a dynamickým moderným dizajnom stelesňuje pozitívne myslenie. Je definovaný čistými líniami a retro detailmi, má luminiscenčné ručičky, číslice a bodky pre ľahkú nočnú čitateľnosť. Na prikývnutie dobrodruhom a prieskumníkom sekundová ručička pripomína kompas a klenuté krištáľové sklo ponúka zväčšenú čitateľnosť.      Vlastnosti:           Výška  14 mm    Hmotnosť  94 g    Šírka očka  22 mm    Priemer  44 mm    Utesnenie puzdra  Skrutkovacie puzdro    Chronograf  Áno    Uzavretie  Bežná spona    Otočenie rámu  Pevný rám    Odpočítavač času  Nie    Dátum  Áno    Podsvietenie ciferníka  Nie    Luminiscenčné ručičky  Áno    Typ pohybu  Analógový     Druhé časové pásmo  Nie    Odolnosť voči vode  10 ATM/100 M/330 FT    Povrchová úprava rámu  Leštené    Materiál obruby  Nehrdzavejúca oceľ    Materiál náramku  Silikón    Materiál zadnej časti puzdra  Nehrdzavejúca oceľ    Materiál puzdra  Nehrdzavejúca oceľ    Dokončenie číselníka  Matt    Farba puzdra  Strieborná    Farba obruby  Strieborná    Farba ciferníka  Modrá    Farba náramku  Modrá</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/wenger-attitude-chrono-01-1543-117?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRW_01-1543-117_S_PO.jpg</imgurl>
-    <price>257,50</price>
-    <price_vat>309,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
@@ -11302,7 +10922,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100276</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15132,7 +14752,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160300096</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15711,7 +15331,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160400857</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20333,7 +19953,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160503817</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -23174,7 +22794,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160056504</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -31012,7 +30632,7 @@ Obojstranná čepeľ s ergonomickou rukoväťou a kvalitným zúbkovaným ostrí
     <ean>7611160039569</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -32872,7 +32492,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160705051</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -38830,7 +38450,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160005564</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
