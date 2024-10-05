@@ -424,7 +424,7 @@
     <ean>7611160002242</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -1076,7 +1076,7 @@
     <ean>7611160046994</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3201,7 +3201,7 @@
     <ean>7611160228789</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -3456,7 +3456,7 @@
     <ean>7611160044549</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -9661,7 +9661,7 @@ Chytiť tašku, aby ste stihli let, alebo sa pevne držať v preplnenom vlaku? H
     <ean />
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11210,7 +11210,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160015310</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -13039,27 +13039,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>241610</item_id>
-    <productname>Victorinox 241610 Maverick Small hodinky</productname>
-    <product>Victorinox 241610 Maverick Small hodinky</product>
-    <description>Špecifikácia:       Analógový quartzový strojček RONDA 705         Puzdro z ušľachtilej ocele 316L      Priemer puzdra: ø 34mm     Indikátor dátumu     Vodotesnosť: 100 M (10 ATM)     Poškriabaniu odolné trojvrstvové antireflexné zafírové sklíčko     Luminiscenčné ručičky a indexy     Rozširovacia spona pre potápanie     Kaučukový remienok        Indikácia životnosti batérie                V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/victorinox-241610-maverick-small-hodinky?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/01/p_915-1264-Victorinox-241610-Maverick-hodinky.jpg</imgurl>
-    <price>412,50</price>
-    <price_vat>495,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7630000716187</ean>
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>241701</item_id>
     <productname>Victorinox 241701 Maverick Small hodinky</productname>
     <product>Victorinox 241701 Maverick Small hodinky</product>
@@ -13357,30 +13336,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean>7630000733474</ean>
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>241835</item_id>
-    <productname>Victorinox 241835 I.N.O.X. Mechanical hodinky</productname>
-    <product>Victorinox 241835 I.N.O.X. Mechanical hodinky</product>
-    <description>Špecifikácia:
-   Automatický samonaťahovací strojček ETA 2824-2   Puzdro z ušľachtilej ocele 316L   Priemer puzdra: ø 43mm   Čiastočne priehľadný spodný skrutkovaný kryt puzdra   Indikátor dátumu   Skrutkovateľná korunka   Ochrana korunky   Súčasťou balenia je aj ochranná krytka   Vodotesnosť: 200 M (20 ATM)   Poškriabaniu odolné trojvrstvové antireflexné zafírové sklíčko   Luminiscenčné ručičky a indexy   Oceľový náramok   Indikácia životnosti batérie 
-  
-V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/victorinox-241835-i-n-o-x-mechanical-hodinky?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2018/12/WAT_241835_S1.jpg</imgurl>
-    <price>745,83</price>
-    <price_vat>895,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7630000733498</ean>
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
@@ -14592,7 +14547,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160006608</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15988,7 +15943,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160404510</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17090,7 +17045,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160058249</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17132,7 +17087,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160058263</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17702,7 +17657,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506016</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -18908,7 +18863,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160502834</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -19687,7 +19642,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160503718</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -20406,7 +20361,7 @@ Naše nové nože Fibrox Dual Grip určené pre profesionálnych mäsiarov a
     <ean>7611160064264</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -24105,7 +24060,7 @@ Súprava obshauje:
     <ean>7611160040442</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -25320,7 +25275,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160092397</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -28724,7 +28679,7 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <ean>7613329152140</ean>
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -28936,36 +28891,6 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRT_611886_S_PO.jpg</imgurl>
     <price>7,50</price>
     <price_vat>9,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>611888</item_id>
-    <productname>Wenger  Súprava cestovných fliaš</productname>
-    <product>Wenger  Súprava cestovných fliaš</product>
-    <description>Táto 10-dielna sada cestovných fliaš, navrhnutá s ohľadom na bezpečnostné požiadavky letísk, pokryje vaše kozmetické obaly.   So štyrmi 30-ml fľaštičkami, štyrmi 0,25-oz téglikmi a dvoma 0,5-oz téglikmi je tu veľkosť pre každú z vašich toaletných potrieb.   A priehľadná taška na zips je priateľská k kontrolným bodom, takže nemusíte veci vybaľovať ani sa prehrabávať.   Pretože cestovanie nemusí byť stres – s nejakým šikovným príslušenstvom a trochou plánovania je to hračka. 
-  
-      Výška  
-  19 cm   
-   Dĺžka  
-  20 cm   
-   šírka  
-  4 cm   
-   Hmotnosť  
-  0,2 kg</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/wenger-kufre-a-tasky/wenger-suprava-cestovnych-flias?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRT_611888_S_PO.jpg</imgurl>
-    <price>16,67</price>
-    <price_vat>20,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
@@ -32555,7 +32480,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean />
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -33676,7 +33601,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160804686</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -33699,7 +33624,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160801357</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35200,7 +35125,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160227942</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -37177,7 +37102,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7613329079799</ean>
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -37998,33 +37923,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>610605</item_id>
-    <productname>TA 5.0, Vertical Travel Companion, Black</productname>
-    <product>TA 5.0, Vertical Travel Companion, Black</product>
-    <description>Priestor pre všetky vaše nevyhnutné veci     Priečinok na tablet       RFID ochrana chráni osobné údaje   
-                                                       Číslo položky 
- 610605  
-  Veľkosť 
- 10 x 21 x 27 cm  
-  Hmotnosť 
- 0,4 kg</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/travel-accessories/ta-5-0-vertical-travel-companion-black?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/11/TGE_610605_S_FR.webp</imgurl>
-    <price>43,75</price>
-    <price_vat>52,50</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7613329088142</ean>
-    <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>610606</item_id>
     <productname>TA 5.0, Passport Holder with RFID, Black</productname>
     <product>TA 5.0, Passport Holder with RFID, Black</product>
@@ -38631,7 +38529,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160063205</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -39688,7 +39586,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
