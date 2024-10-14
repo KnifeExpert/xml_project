@@ -2284,8 +2284,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>51.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -2402,8 +2402,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>57.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -6128,8 +6128,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>199.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -21955,8 +21955,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>45.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -28649,8 +28649,8 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>24.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -51854,8 +51854,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>38.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -92334,8 +92334,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>1245.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Hodinky</CATEGORY>
     </CATEGORIES>
@@ -92401,8 +92401,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>1145.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Hodinky</CATEGORY>
     </CATEGORIES>
@@ -92466,8 +92466,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>525.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Hodinky</CATEGORY>
     </CATEGORIES>
@@ -92475,7 +92475,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <IMAGE>https://vreckovynoz.sk/files/products/wat_241893.jpg</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
+    <EAN>7611160089182</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
