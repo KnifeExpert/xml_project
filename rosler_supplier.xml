@@ -10435,7 +10435,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160105943</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11526,7 +11526,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100467</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -12778,43 +12778,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>2.5703.E</item_id>
-    <productname>Victorinox Cigar 36</productname>
-    <product>Victorinox Cigar 36</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. orezávač cigár
- 
- 5.   vývrtka  
- 
- 6.   nerezový krúžok na kľúče  
- 
- 7. pinzeta
- 
- 8. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-cigar-36?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/07/p_719-944-Victorinox-2.5703.E-Cigar-36-vreckovy-noz.jpg</imgurl>
-    <price>39,17</price>
-    <price_vat>47,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160045027</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15699,7 +15662,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160404510</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17224,7 +17187,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506153</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -19115,7 +19078,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160503381</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -23569,7 +23532,7 @@ Súprava obshauje:
     <ean>7611160003225</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -23773,7 +23736,7 @@ Súprava obshauje:
     <ean>7611160057921</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -39948,7 +39911,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160500069</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
