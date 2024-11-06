@@ -8960,7 +8960,7 @@ Zamilujte sa do života s kolekciou Metropolitan Donnissima. Tieto hodinky, ktor
     <ean />
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -11022,7 +11022,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160055019</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -14643,27 +14643,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>31105203</item_id>
-    <productname>Victorinox 31105203 Pilot batoh</productname>
-    <product>Victorinox 31105203 Pilot batoh</product>
-    <description>Špecifikácia:     - Vystužený priečinok s jemnou úpravou proti poškriabaniu na laptop až do veľkosti 16 palcov (41 cm)     - Vystužený priečinok s jemnou úpravou proti poškriabaniu na tablet alebo eReader veľkosti 10 palcov (25 cm)     - Predný organizačný panel obsahuje plne zipsovateľné vrecko, vrecko na umiestnenie elektroniky, sieťovinový priečinok na drobné predmety osobnej potreby, sieťovinový priečinok na preukazy, priečinky na perá a karabínu na uchytenie kľúčov     - Vonkajšie organizačné prvky sú tvorené zipsovateľným predným priečinkom s funkciou jednoduchého prístupu a bočnými sieťovinovými priečinkami ideálnymi na fľašu alebo dáždnik     - Vystužená chrbtová strana s vzduchovými kanálikmi na cirkuláciu vzduchu a nastaviteľné ramenné popruhy pre zabezpečenie maximálneho komfortu     - Zadná manžeta umožňuje nasunutie na rukoväť kolieskovej batožiny a uľahčuje tak cestovanie s viacerými taškami             Materiál: Balistický nylon     Rozmery: 34x47x28 cm (ŠxVxH)     Váha: 1 kg     Objem: 30 l     Záruka: 10 ročná Limited Warranty záruka           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/victorinox-31105203-pilot-batoh?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/11/p_1052-1578-Victorinox-31105203-Pilot-batoh.jpg</imgurl>
-    <price>43,75</price>
-    <price_vat>52,50</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>31171801</item_id>
     <productname>Bezpečnostný pás s RFID ochranou</productname>
     <product>Bezpečnostný pás s RFID ochranou</product>
@@ -16891,7 +16870,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160506061</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -32164,27 +32143,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>7.8340</item_id>
-    <productname>Victorinox 7.8340 ocieľka</productname>
-    <product>Victorinox 7.8340 ocieľka</product>
-    <description>Ocieľka s oválnym brusivom, drevenou rukoväťou a krúžkom na zavesenie.  Dĺžka brusiva 27 cm.</description>
-    <url>https://vreckovynoz.sk/produkty/kuchynske-noze/ocielky-brusenie/victorinox-7-8340-ocielka?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_319-446-Victorinox-7.8340-ocielka.jpg</imgurl>
-    <price>37,92</price>
-    <price_vat>45,50</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Kuchynské nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>7.8343</item_id>
     <productname>Victorinox 7.8343 ocieľka</productname>
     <product>Victorinox 7.8343 ocieľka</product>
@@ -37224,7 +37182,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -37421,7 +37379,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -40130,7 +40088,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean>7611160089182</ean>
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
