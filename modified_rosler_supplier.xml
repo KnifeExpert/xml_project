@@ -15910,8 +15910,8 @@ Zamilujte sa do života s kolekciou Metropolitan Donnissima. Tieto hodinky, ktor
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>219.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Hodinky</CATEGORY>
     </CATEGORIES>
@@ -19568,8 +19568,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>45.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -27145,65 +27145,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>31105203</CODE>
-    <NAME>Victorinox 31105203 Pilot batoh</NAME>
-    <DESCRIPTION>Špecifikácia:     - Vystužený priečinok s jemnou úpravou proti poškriabaniu na laptop až do veľkosti 16 palcov (41 cm)     - Vystužený priečinok s jemnou úpravou proti poškriabaniu na tablet alebo eReader veľkosti 10 palcov (25 cm)     - Predný organizačný panel obsahuje plne zipsovateľné vrecko, vrecko na umiestnenie elektroniky, sieťovinový priečinok na drobné predmety osobnej potreby, sieťovinový priečinok na preukazy, priečinky na perá a karabínu na uchytenie kľúčov     - Vonkajšie organizačné prvky sú tvorené zipsovateľným predným priečinkom s funkciou jednoduchého prístupu a bočnými sieťovinovými priečinkami ideálnymi na fľašu alebo dáždnik     - Vystužená chrbtová strana s vzduchovými kanálikmi na cirkuláciu vzduchu a nastaviteľné ramenné popruhy pre zabezpečenie maximálneho komfortu     - Zadná manžeta umožňuje nasunutie na rukoväť kolieskovej batožiny a uľahčuje tak cestovanie s viacerými taškami             Materiál: Balistický nylon     Rozmery: 34x47x28 cm (ŠxVxH)     Váha: 1 kg     Objem: 30 l     Záruka: 10 ročná Limited Warranty záruka           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/victorinox-31105203-pilot-batoh?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>52.50</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2016/11/p_1052-1578-Victorinox-31105203-Pilot-batoh.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>31171801</CODE>
     <NAME>Bezpečnostný pás s RFID ochranou</NAME>
     <DESCRIPTION>Špecifikácia:     - RFID ochrana zabraňuje elektronickému odcudzeniu údajov umiestnených na mikročipoch v pasoch, na kreditných kartách alebo občianskych preukazoch.     - Dva veľké zipsovateľné priečinky na lístky a letenky, pasy, cestovné dokumenty a peniaze  .     - Zadná strana s priedušným materiálom je príjemná na kožu a zabezpečuje prúdenie vzduchu  .     - Elastický pás sa prispôsobí akejkoľvek veľkosti a obsahuje blokovací klip na zaistenie.                Rozmery: 29x14x1 cm (ŠxVxH)     Váha: 0,1 kg           V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</DESCRIPTION>
@@ -32999,8 +32940,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>23.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -72900,65 +72841,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>7.8340</CODE>
-    <NAME>Victorinox 7.8340 ocieľka</NAME>
-    <DESCRIPTION>Ocieľka s oválnym brusivom, drevenou rukoväťou a krúžkom na zavesenie.  Dĺžka brusiva 27 cm.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/ocielky-brusenie/victorinox-7-8340-ocielka?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>45.50</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2012/07/p_319-446-Victorinox-7.8340-ocielka.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>7.8343</CODE>
     <NAME>Victorinox 7.8343 ocieľka</NAME>
     <DESCRIPTION>Ocieľka s oválnym brusivom, plastovou rukoväťou a krúžkom na zavesenie.    Dĺžka brusiva 27 cm.</DESCRIPTION>
@@ -85480,8 +85362,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>225.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kufre a cestovné tašky</CATEGORY>
     </CATEGORIES>
@@ -85943,8 +85825,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>45.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kufre a cestovné tašky</CATEGORY>
     </CATEGORIES>
@@ -91920,8 +91802,8 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>525.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Hodinky</CATEGORY>
     </CATEGORIES>
