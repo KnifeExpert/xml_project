@@ -1517,7 +1517,7 @@
     <ean>7611160013590</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -6222,83 +6222,6 @@ Zabezpečte, aby sa každý deň rátal s energickým, schopným prístupom a ho
     <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRW_01-1541-128_S_PO.jpg</imgurl>
     <price>182,50</price>
     <price_vat>219,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>01.1543.106</item_id>
-    <productname>Wenger Attitude Chrono 01.1543.106</productname>
-    <product>Wenger Attitude Chrono 01.1543.106</product>
-    <description>Chrono hodinky s farebným pop 
-  
-Línia Attitude sa netají svojím vrodeným dynamickým charakterom s bujnou vitalitou kombinovanou s aktuálnym dizajnom. Základné línie definujú jeho tvar; svietiace číslice a ručičky v tme v kombinácii s typickým švajčiarskym nádychom červenej na logu a sekundovej ručičke robia z týchto hodiniek športový doplnok, ktorý dopĺňa každý dress code.
- 
-     
-     Vlastnosti 
-  
-         Výška 
- 12 mm  
-  Hmotnosť 
- 80 g  
-  Šírka očka 
- 22 mm  
-  Priemer 
- 44 mm  
-  Utesnenie puzdra 
- Skrutkovacie puzdro  
-  Chronograf 
- Áno  
-  Funkcia alarmu 
- Nie  
-  Uzavretie 
- Bežná spona  
-  Otočenie rámu 
- Pevný rám  
-  Odpočítavač času 
- Nie  
-  Dátum 
- Áno  
-  Podsvietenie ciferníka 
- Nie  
-  Luminiscenčné ručičky 
- Áno  
-  Typ pohybu 
- Analógový  
-  Druhé časové pásmo 
- Nie  
-  Odolnosť voči vode 
- 10 ATM/100 M/330 FT  
-  Materiál obruby 
- Nehrdzavejúca oceľ  
-  Materiál náramku 
- Kožené  
-  Materiál zadnej časti puzdra 
- Nehrdzavejúca oceľ  
-  Materiál puzdra 
- Nehrdzavejúca oceľ  
-  Dokončenie číselníka 
- Matt  
-  Farba puzdra 
- čierna  
-  Farba obruby 
- čierna  
-  Farba ciferníka 
- čierna  
-  Farba náramku 
- čierna</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/wenger-attitude-chrono-01-1543-106?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/01.1543.106.jpg</imgurl>
-    <price>265,83</price>
-    <price_vat>319,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
@@ -14426,7 +14349,7 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <ean>7611160300096</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15494,7 +15417,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160004260</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -17208,7 +17131,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160501493</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -22370,7 +22293,7 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     <ean>7611160056498</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -28704,43 +28627,6 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>612273</item_id>
-    <productname>Wenger BC FIRST, taška cez rameno , čierna</productname>
-    <product>Wenger BC FIRST, taška cez rameno , čierna</product>
-    <description>Taška cez rameno pre tablet   Disponuje polstrovanou priehradkou pre ešte väčšiu bezpečnosť   Je vyrobená z recyklovaných PET fliaš   Príjemné rozmery 21 × 28 × 9 cm, váha 0,24 g a má objem **4 l 
-      Typ tašky 
- obal na notebook  
-  Farba 
- čierna  
-  Dámske 
- áno  
-  Pánske 
- áno  
-  Manažérska 
- áno  
-  Športový 
- nie  
-  Študentská 
- áno  
-  Objem 
- 4 l</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/wenger-kufre-a-tasky/wenger-bc-first-taska-cez-rameno-cierna?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/1000-6.webp</imgurl>
-    <price>29,17</price>
-    <price_vat>35,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7613329169896</ean>
-    <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>612275</item_id>
     <productname>Wenger BC Fun</productname>
     <product>Wenger BC Fun</product>
@@ -29142,37 +29028,6 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
     <categorytext>E-Shop</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>612569</item_id>
-    <productname>Wenger NEXT 23 Ryde Lava</productname>
-    <product>Wenger NEXT 23 Ryde Lava</product>
-    <description>Predstavujeme Ryde, náš super kompaktný batoh vytvorený na konfrontáciu s dochádzkou do mesta – a zakaždým vyhrať. Táto prenosná kancelária handsfree, ktorá je schopná jazdiť vysoko aj v tých najnáročnejších metropolitných podmienkach, vám pomôže úspešne vykonávať viac vecí naraz za behu. Každý batoh Ryde, ktorý je odborne vyrobený zo 100% recyklovanej škrupiny, používa v priemere 12 recyklovaných PET fliaš vo svojom ekologickom dizajne. Inteligentný.
-  
-  	 Organizér Essentials udržuje napájacie káble, nabíjačky a vizitky čisté a dostupné 
-  	 Priestranná hlavná priehradka 
-  	 Vrecko QuickAccess pre ľahký prístup k vašim nevyhnutnostiam 
-  	 Bočné sieťované vrecká sú dimenzované na fľašu s vodou alebo dáždnik 
-  	 Nastaviteľné, polstrované ramenné popruhy pre maximálne pohodlie 
-  	 Zadná výstelka s prietokom vzduchu umožňuje cirkuláciu vzduchu, aby ste sa ochladili 
-  	 Mäkká polstrovaná rukoväť pre ľahké prenášanie 
-  	 Vpredu retiazkové očká na pripevnenie 
-  	 Vonkajšie kompresné popruhy, aby bola taška kompaktná</description>
-    <url>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/wenger-next-23-ryde-lava?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/05/WRT_612569_S_PO.jpg</imgurl>
-    <price>74,17</price>
-    <price_vat>89,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7613329178409</ean>
-    <categorytext>E-Shop</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -32050,7 +31905,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160704276</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -32290,7 +32145,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160030665</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -35188,36 +35043,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pr
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
-    <categorytext>E-Shop | Hodinky</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>241930</item_id>
-    <productname>Victorinox 241930 FieldForce Classic GMT</productname>
-    <product>Victorinox 241930 FieldForce Classic GMT</product>
-    <description>Špecifikácia:   Analógový quartzový strojček RONDA 715 
-  Puzdro z ušľachtilej ocele 316L s PVD úpravou 
-  Priemer puzdra: ø 42mm 
-  Indikátor dňa a dátumu 
-  Vodotesnosť: 100 M (10 ATM) 
-  Poškriabaniu odolné trojvrstvové antireflexné zafírové sklíčko 
-  Luminiscenčné ručičky a indexy 
-  Oceľový remienok 
-  Indikácia životnosti batérie 
-  V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 - 10 pracovných dní.</description>
-    <url>https://vreckovynoz.sk/produkty/hodinky/panske-hodinky/victorinox-241930-fieldforce-classic-gmt?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2023/11/WAT_241930_S1.webp</imgurl>
-    <price>412,50</price>
-    <price_vat>495,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160126870</ean>
     <categorytext>E-Shop | Hodinky</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
