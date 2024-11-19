@@ -5924,8 +5924,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>99.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -22056,8 +22056,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>63.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -27806,8 +27806,8 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>24.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -28794,8 +28794,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>49.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -29276,65 +29276,6 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160405326</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>4.0565.03</CODE>
-    <NAME>Victorinox 4.0565.03 púzdro kožené</NAME>
-    <DESCRIPTION>Štýlové puzdro na vreckový nôž Victorinox Kit.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0565-03-puzdro-kozene?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>11.40</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2019/10/Victorinox-4.0565.03-púzdro-kožené.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
@@ -32706,8 +32647,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>85.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -32766,8 +32707,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>23.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -33120,8 +33061,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>59.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -39687,8 +39628,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>22.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -42400,8 +42341,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>48.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -43539,8 +43480,8 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>23.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -47772,65 +47713,6 @@ Kuchynské nože kolekcie Swibo majú ergonomicky tvarované rukoväte nezamenit
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>6.7111.31</CODE>
-    <NAME>Victorinox 6.7111.31 SwissClassic súprava nožov</NAME>
-    <DESCRIPTION>Súprava obsahuje:     1. nôž na paradajky 11 cm 6.7831     2. lúpací/šúpací nôž 8 cm 6.7601     3. univerzálna škrabka 7.6075.1</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/supravy-kuchynskych-nozov/victorinox-6-7111-31-swissclassic-suprava-nozov?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>17.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2016/07/p_978-1405-Victorinox-6.7111.31-SwissClassic-suprava-nozov.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160056474</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>6.7113.6G</CODE>
     <NAME>Sada nožov Swiss Classic so škrabkou 6 dielna</NAME>
     <DESCRIPTION>Súprava profesionálnych kuchynských nožov je základným kameňom každej kuchyne a podporuje všetku kulinársku kreativitu. Každý kuchár ocení, ak čepele režú tak, ako majú a bude radosť ich používať.
@@ -51526,8 +51408,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>25.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -64991,8 +64873,8 @@ Tento cestovný batoh od spoločnosti Wenger skvelo poslúži ako pre každodenn
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>43.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -65866,8 +65748,8 @@ BEZPEČNÉ SKLADOVANIE
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>33.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -71315,8 +71197,8 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>159.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -72650,8 +72532,8 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>25.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -83628,71 +83510,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://vreckovynoz.sk/files/products/2023/11/TGE_612675_S_PO2_RedDot.webp</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>610395</CODE>
-    <NAME>TA 5.0, Zip-Around Peňaženka, Black</NAME>
-    <DESCRIPTION>Bezpečný dizajn na zips    Priehradka na bankovky a kreditné karty     Micro-mesh ID slot  
-       Číslo položky 
- 610395  
-  Veľkosť 
- 1 x 11 x 10 cm  
-  Hmotnosť 
- 0,1 kg</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kufre-a-cestovne-tasky/travel-accessories/ta-5-0-zip-around-penazenka-black?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>35.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kufre a cestovné tašky</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2023/11/TGE_610395_S_PO.webp</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
