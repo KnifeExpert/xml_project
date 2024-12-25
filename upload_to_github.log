@@ -1,4 +1,4 @@
-Task started at so 01. 06. 2024 18:01:36,00 
+Task started at st 25. 12. 2024 20:18:57,16 
 Running download_xml.py for original supplier 
 Running modify_xml.py for original supplier 
 Feed bol konvertovaný a uložený ako 'modified_supplier.xml'.
@@ -11,18 +11,10 @@ Forcing timestamp update on XML files
         1 file(s) copied.
         1 file(s) copied.
 Running git commands 
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   supplier.xml
-	modified:   upload_to_github.log
-	modified:   upload_to_github.ps1
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	navod.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
-Everything up-to-date
-Task finished at so 01. 06. 2024 18:01:43,41 
+warning: in the working copy of 'modified_opinel_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modified_rosler_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modified_supplier.xml', LF will be replaced by CRLF the next time Git touches it
+[master 4665f7a] Force-updated modified feeds
+ 1 file changed, 3748 insertions(+), 3658 deletions(-)
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
