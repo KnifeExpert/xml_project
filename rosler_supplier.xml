@@ -2123,7 +2123,7 @@
     <ean>7611160012135</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -15404,7 +15404,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160401113</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -19638,7 +19638,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160509581</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -29915,27 +29915,6 @@ BEZPEČNÉ SKLADOVANIE
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>7.6075</item_id>
-    <productname>Victorinox 7.6075 škrabka univerzálna</productname>
-    <product>Victorinox 7.6075 škrabka univerzálna</product>
-    <description>Univerzálna škrabka s plastovou rukoväťou.</description>
-    <url>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-7-6075-skrabka-univerzalna?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_301-425-Victorinox-7.6075-skrabka-univerzalna.jpg</imgurl>
-    <price>4,96</price>
-    <price_vat>6,10</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160001481</ean>
-    <categorytext>E-Shop | Kuchynské nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>7.6076</item_id>
     <productname>Victorinox 7.6076 strúhač na syr</productname>
     <product>Victorinox 7.6076 strúhač na syr</product>
@@ -29947,27 +29926,6 @@ BEZPEČNÉ SKLADOVANIE
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean>7611160023285</ean>
-    <categorytext>E-Shop | Kuchynské nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>4.5</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>7.6079</item_id>
-    <productname>Victorinox 7.6079 škrabka univerzálna</productname>
-    <product>Victorinox 7.6079 škrabka univerzálna</product>
-    <description>Univerzálna škrabka s plastovou rukoväťou.</description>
-    <url>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-7-6079-skrabka-univerzalna?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2013/03/p_484-646-Victorinox-7.6079-skrabka-univerzalna.jpg</imgurl>
-    <price>4,96</price>
-    <price_vat>6,10</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160039569</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
@@ -33016,7 +32974,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7891060170771</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
@@ -33105,7 +33063,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160801548</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>4.5</delivery_price>
