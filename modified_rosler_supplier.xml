@@ -732,8 +732,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>18.50</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -6047,8 +6047,8 @@
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>204.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -19305,8 +19305,8 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>42.10</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -22250,184 +22250,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>2.4913.C</CODE>
-    <NAME>Victorinox 2.4913.C EvoGrip 18 vreckový nôž</NAME>
-    <DESCRIPTION>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. krížový skrutkovač
- 
- 12. dierovač, výstružník
- 
- 13. nerezový krúžok na kľúče
- 
- 14. pinzeta
- 
- 15. špáradlo</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-2-4913-c-evogrip-18-vreckovy-noz?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>64.60</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2014/07/p_710-935-Victorinox-2.4913.C-EvoGrip-18-vreckovy-noz.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160044914</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>2.4913.E</CODE>
-    <NAME>Victorinox Evolution 18</NAME>
-    <DESCRIPTION>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. krížový skrutkovač
- 
- 12. dierovač, výstružník
- 
- 13. nerezový krúžok na kľúče
- 
- 14. pinzeta
- 
- 15. špáradlo</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-evolution-18?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>52.30</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2014/07/p_711-936-Victorinox-2.4913.E-Evolution-18-vreckovy-noz.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160044938</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>2.5221.S63</CODE>
     <NAME>Victorinox EvoWood S557</NAME>
     <DESCRIPTION>Vreckový nôž obsahuje:
@@ -22544,107 +22366,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160044976</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>2.5223.SE</CODE>
-    <NAME>Victorinox Evolution S557</NAME>
-    <DESCRIPTION>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. kliešte s
- 
- 12. - dvoma otváracími polohami
- 
- 13. - strihačom drôtu
- 
- 14. - ohýbačom drôtu
- 
- 15. - uchopovačom matíc
- 
- 16. vidlicový kľúč
- 
- 17. vývrtka
- 
- 18. dierovač, výstružník
- 
- 19. nerezový krúžok na kľúče
- 
- 20. pinzeta
- 
- 21. špáradlo</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-evolution-s557?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>91.30</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2014/07/p_715-940-Victorinox-2.5223.SE-Evolution-S557-vreckovy-noz.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160044983</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
@@ -27974,65 +27695,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>4.0521.31</CODE>
-    <NAME>Victorinox 4.0521.31 puzdro</NAME>
-    <DESCRIPTION>Kožené puzdro pre vreckové nože veľkosti 91 mm s 5 až 8 vrstvami so zapínaním na suchý zips, rotačným klipom a možnosťou upevnenia na opasok.   Vhodné pre vreckové nože:   1.3763..      Ranger (akékoľvek prevedenie)   1.3773        Handyman   1.6795        SwissChamp   1.7725.T     CyberTool 34   1.7775.T     CyberTool 41   1.7925.T     CyberTool Lite</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0521-31-puzdro?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>28.70</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2012/07/p_245-353-Victorinox-4.0521.31-puzdro.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160406422</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>4.0521.XAVT</CODE>
     <NAME>Victorinox 4.0521.XAVT puzdro k nožom čierna koža</NAME>
     <DESCRIPTION>Kožené puzdro vhodné pre vreckový nôž SwissChamp XAVT so suchým zipsom.</DESCRIPTION>
@@ -28225,65 +27887,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160400918</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>4.0523.31</CODE>
-    <NAME>Victorinox 4.0523.31 puzdro</NAME>
-    <DESCRIPTION>Kožené puzdro pre vreckové nože veľkosti 111 mm až do 4 vrstiev so zapínaním na suchý zips, rotačným klipom a možnosťou upevnenia na opasok.   Vhodné pre vreckové nože:   0.8321.MWC Sentinel One Hand   0.8331..       Hunter XT (akékoľvek prevedenie)   0.8351..       Nomad (akékoľvek prevedenie)   0.8353..       Nomad (akékoľvek prevedenie)   0.8361..       Forester (akékoľvek prevedenie)   0.8363..       Forester (akékoľvek prevedenie)   0.8371.MWC Dual Pro   0.8413..       Sentinel (akékoľvek prevedenie)   0.8416..       Sentinel Clip (akékoľvek prevedenie)   0.8453.3      Centurion   0.8461..       Soldier/Bundeswehr   0.8463..       Trailmaster (akékoľvek prevedenie)   0.8493.3      Locksmith   0.8623..       RescueTool (akékoľvek prevedenie)   0.8710         Solo   0.8823         Alpineer   0.8853..       Picknicker (akékoľvek prevedenie)   0.8863         Rucksack   0.8873..       Hunter (akékoľvek prevedenie)   0.8883         Equestrian   0.8953         Adventurer   0.8993.2W   Helmsman   0.9023..       Outrider (akékoľvek prevedenie)   0.9033         Atlas   0.9093.2W   Skipper</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0523-31-puzdro?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>28.70</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2012/07/p_248-356-Victorinox-4.0523.31-puzdro.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160412980</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
@@ -30006,65 +29609,6 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160249302</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>4.1814</CODE>
-    <NAME>Victorinox 4.1814 retiazka s posuvnými karabínami</NAME>
-    <DESCRIPTION>Retiazka dĺžky 38 cm s priemerom 1,8 mm. Na jej koncoch sú 2 karabíny s posuvným mechanizmom.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-4-1814-retiazka-s-posuvnymi-karabinami?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>8.10</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2012/07/p_214-321-Victorinox-4.1814-retiazka-s-posuvnymi-karabinami.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160401670</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
@@ -32673,8 +32217,8 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>23.60</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -34563,8 +34107,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>22.60</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -48523,8 +48067,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>306.50</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -51070,8 +50614,8 @@ Súprava obshauje:
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>39.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -67029,8 +66573,8 @@ BEZPEČNÉ SKLADOVANIE
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>17.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -72910,65 +72454,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>7.9037.L</CODE>
-    <NAME>Victorinox 7.9037.L ochranná rukavica</NAME>
-    <DESCRIPTION>Rukavice Victorinox Heavy-Cut sú obojručné a je možné ich nosiť na ľavej i pravej ruke. Vyrobené sú z materiálu Brinix  ® hrúbky 0,08 mm, A8C, polyesteru a nehrdzavejúcej ocele. Predávané sú individuálne, nie v pároch.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-7-9037-l-ochranna-rukavica?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>29.80</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2016/02/p_933-1296-Victorinox-7.9037.L-ochranna-rukavica.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>7.9037.M</CODE>
     <NAME>Victorinox 7.9037.M ochranná rukavica</NAME>
     <DESCRIPTION>Rukavice Victorinox Heavy-Cut sú obojručné a je možné ich nosiť na ľavej i pravej ruke. Vyrobené sú z materiálu Brinix  ® hrúbky 0,08 mm, A8C, polyesteru a nehrdzavejúcej ocele. Predávané sú individuálne, nie v pároch.</DESCRIPTION>
@@ -73637,65 +73122,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>7611160800558</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>8.0919.24</CODE>
-    <NAME>Victorinox 8.0919.24 krajčírske nožnice</NAME>
-    <DESCRIPTION>Krajčírske nožnice s čiernou rukoväťou</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-8-0919-24-krajcirske-noznice?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>40.00</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2019/08/Nožnice-krajčírske-Victorinox-8.0919.24.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160800589</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
@@ -75390,65 +74816,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>8.2030.13</CODE>
-    <NAME>Victorinox 8.2030.13 klieštiky na nechty</NAME>
-    <DESCRIPTION>Klieštiky na nechty vyrobené z poniklovanej ocele.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-8-2030-13-kliestiky-na-nechty?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>26.70</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/2012/08/Victorinox-8.2030.13-klieštiky-na-nechty.jpg</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7891060176568</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>8.2040.10</CODE>
     <NAME>Victorinox 8.2040.10 klieštiky na kožu</NAME>
     <DESCRIPTION>Klieštiky na kožičku vyrobené z poniklovanej ocele.
@@ -75708,8 +75075,8 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>38.50</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
     </CATEGORIES>
@@ -90038,65 +89405,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </SIZEID>
   </SHOPITEM>
   <SHOPITEM>
-    <CODE>4.0515</CODE>
-    <NAME>Victorinox 4.0515 puzdro</NAME>
-    <DESCRIPTION>Rozmery: 20 x 90 x 25 mm</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0515-puzdro?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>16.30</PRICE_VAT>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/4.0515.webp</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160406484</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
     <CODE>4.0519</CODE>
     <NAME>Victorinox 4.0519 puzdro</NAME>
     <DESCRIPTION>Kožené puzdro pre Nail Clip s možnosťou upevnenia na opasok.    Rozmery: 32 x 73 x 32 mm</DESCRIPTION>
@@ -90116,65 +89424,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
-    <ACTION_PRICE>0</ACTION_PRICE>
-    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
-    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
-    <ADULT>false</ADULT>
-    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
-    <ALLOWS_PAYU>false</ALLOWS_PAYU>
-    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
-    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
-    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
-    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
-    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
-    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
-    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
-    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
-    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
-    <CURRENCY>EUR</CURRENCY>
-    <DECIMAL_COUNT>2</DECIMAL_COUNT>
-    <EXTERNAL_ID>N/A</EXTERNAL_ID>
-    <FIRMY_CZ>false</FIRMY_CZ>
-    <FREE_BILLING>false</FREE_BILLING>
-    <FREE_SHIPPING>false</FREE_SHIPPING>
-    <GUID>00000000-0000-0000-0000-000000000000</GUID>
-    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
-    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
-    <PRICE>0.0</PRICE>
-    <PRICE_RATIO>0.0</PRICE_RATIO>
-    <TOLL_FREE>false</TOLL_FREE>
-    <VAT>20</VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <VISIBLE>true</VISIBLE>
-    <XML_FEED_NAME>N/A</XML_FEED_NAME>
-    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
-    <SIZEID>
-      <ID>0</ID>
-      <LABEL>N/A</LABEL>
-    </SIZEID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>4.0662</CODE>
-    <NAME>Victorinox 4.0662 púzdro kožené</NAME>
-    <DESCRIPTION>Štýlové puzdro na vreckový nôž Victorinox 58 mm.</DESCRIPTION>
-    <ORIG_URL>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0662-puzdro-kozene?from=heureka</ORIG_URL>
-    <ITEM_CONDITION>
-      <GRADE>used</GRADE>
-      <DESCRIPTION>No description provided.</DESCRIPTION>
-    </ITEM_CONDITION>
-    <PRICE_VAT>8.10</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <CATEGORIES>
-      <CATEGORY>E-Shop | Vreckové nože</CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://vreckovynoz.sk/files/products/4.0662.webp</IMAGE>
-    </IMAGES>
-    <MANUFACTURER>Victorinox</MANUFACTURER>
-    <EAN>7611160401458</EAN>
     <ACTION_PRICE>0</ACTION_PRICE>
     <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
     <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
