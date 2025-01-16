@@ -506,7 +506,7 @@
     <ean>7611160000064</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -4096,7 +4096,7 @@
     <ean>7611160058751</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -14203,7 +14203,7 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <ean>7611160100306</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -16293,138 +16293,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>2.4913.C</item_id>
-    <productname>Victorinox 2.4913.C EvoGrip 18 vreckový nôž</productname>
-    <product>Victorinox 2.4913.C EvoGrip 18 vreckový nôž</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. krížový skrutkovač
- 
- 12. dierovač, výstružník
- 
- 13. nerezový krúžok na kľúče
- 
- 14. pinzeta
- 
- 15. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-2-4913-c-evogrip-18-vreckovy-noz?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/07/p_710-935-Victorinox-2.4913.C-EvoGrip-18-vreckovy-noz.jpg</imgurl>
-    <price>52,52</price>
-    <price_vat>64,60</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044914</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>2.4913.E</item_id>
-    <productname>Victorinox Evolution 18</productname>
-    <product>Victorinox Evolution 18</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. krížový skrutkovač
- 
- 12. dierovač, výstružník
- 
- 13. nerezový krúžok na kľúče
- 
- 14. pinzeta
- 
- 15. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-evolution-18?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/07/p_711-936-Victorinox-2.4913.E-Evolution-18-vreckovy-noz.jpg</imgurl>
-    <price>42,52</price>
-    <price_vat>52,30</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044938</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>2.5221.S63</item_id>
     <productname>Victorinox EvoWood S557</productname>
     <product>Victorinox EvoWood S557</product>
@@ -16513,84 +16381,6 @@ SWISSGEAR drží krok s vaším dňom, od multitaskingu v kancelárii až po na�
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>2.5223.SE</item_id>
-    <productname>Victorinox Evolution S557</productname>
-    <product>Victorinox Evolution S557</product>
-    <description>Vreckový nôž obsahuje:
- 
- 1. uzatváracia čepeľ veľká
- 
- 2. pilník na nechty s
- 
- 3. - čističom na nechty
- 
- 4. nožnice s mikrozúbkami
- 
- 5. otvárač na konzervy s
- 
- 6. - malým skrutkovačom (aj na krížové skrutky)
- 
- 7. otvárač na fľaše so
- 
- 8. - skrutkovačom, blokovateľným
- 
- 9. - odstraňovačom izolácie drôtov
- 
- 10. pílka na drevo
- 
- 11. kliešte s
- 
- 12. - dvoma otváracími polohami
- 
- 13. - strihačom drôtu
- 
- 14. - ohýbačom drôtu
- 
- 15. - uchopovačom matíc
- 
- 16. vidlicový kľúč
- 
- 17. vývrtka
- 
- 18. dierovač, výstružník
- 
- 19. nerezový krúžok na kľúče
- 
- 20. pinzeta
- 
- 21. špáradlo</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/stredne-vreckove-noze/victorinox-evolution-s557?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/07/p_715-940-Victorinox-2.5223.SE-Evolution-S557-vreckovy-noz.jpg</imgurl>
-    <price>74,23</price>
-    <price_vat>91,30</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160044983</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -20062,42 +19852,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>4.0521.31</item_id>
-    <productname>Victorinox 4.0521.31 puzdro</productname>
-    <product>Victorinox 4.0521.31 puzdro</product>
-    <description>Kožené puzdro pre vreckové nože veľkosti 91 mm s 5 až 8 vrstvami so zapínaním na suchý zips, rotačným klipom a možnosťou upevnenia na opasok.   Vhodné pre vreckové nože:   1.3763..      Ranger (akékoľvek prevedenie)   1.3773        Handyman   1.6795        SwissChamp   1.7725.T     CyberTool 34   1.7775.T     CyberTool 41   1.7925.T     CyberTool Lite</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0521-31-puzdro?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_245-353-Victorinox-4.0521.31-puzdro.jpg</imgurl>
-    <price>23,33</price>
-    <price_vat>28,70</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160406422</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>4.0521.XAVT</item_id>
     <productname>Victorinox 4.0521.XAVT puzdro k nožom čierna koža</productname>
     <product>Victorinox 4.0521.XAVT puzdro k nožom čierna koža</product>
@@ -20239,42 +19993,6 @@ V prípade, že požadovaný model nie je skladom, doba dodania je ca. 5 – 10 
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>4.0523.31</item_id>
-    <productname>Victorinox 4.0523.31 puzdro</productname>
-    <product>Victorinox 4.0523.31 puzdro</product>
-    <description>Kožené puzdro pre vreckové nože veľkosti 111 mm až do 4 vrstiev so zapínaním na suchý zips, rotačným klipom a možnosťou upevnenia na opasok.   Vhodné pre vreckové nože:   0.8321.MWC Sentinel One Hand   0.8331..       Hunter XT (akékoľvek prevedenie)   0.8351..       Nomad (akékoľvek prevedenie)   0.8353..       Nomad (akékoľvek prevedenie)   0.8361..       Forester (akékoľvek prevedenie)   0.8363..       Forester (akékoľvek prevedenie)   0.8371.MWC Dual Pro   0.8413..       Sentinel (akékoľvek prevedenie)   0.8416..       Sentinel Clip (akékoľvek prevedenie)   0.8453.3      Centurion   0.8461..       Soldier/Bundeswehr   0.8463..       Trailmaster (akékoľvek prevedenie)   0.8493.3      Locksmith   0.8623..       RescueTool (akékoľvek prevedenie)   0.8710         Solo   0.8823         Alpineer   0.8853..       Picknicker (akékoľvek prevedenie)   0.8863         Rucksack   0.8873..       Hunter (akékoľvek prevedenie)   0.8883         Equestrian   0.8953         Adventurer   0.8993.2W   Helmsman   0.9023..       Outrider (akékoľvek prevedenie)   0.9033         Atlas   0.9093.2W   Skipper</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0523-31-puzdro?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_248-356-Victorinox-4.0523.31-puzdro.jpg</imgurl>
-    <price>23,33</price>
-    <price_vat>28,70</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160412980</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -21353,42 +21071,6 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>4.1814</item_id>
-    <productname>Victorinox 4.1814 retiazka s posuvnými karabínami</productname>
-    <product>Victorinox 4.1814 retiazka s posuvnými karabínami</product>
-    <description>Retiazka dĺžky 38 cm s priemerom 1,8 mm. Na jej koncoch sú 2 karabíny s posuvným mechanizmom.</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-4-1814-retiazka-s-posuvnymi-karabinami?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/07/p_214-321-Victorinox-4.1814-retiazka-s-posuvnymi-karabinami.jpg</imgurl>
-    <price>6,59</price>
-    <price_vat>8,10</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160401670</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -23017,7 +22699,7 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
     <ean>7611160506061</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -24171,7 +23853,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506023</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -32795,7 +32477,7 @@ Súprava obshauje:
     <ean>7611160092533</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -34353,7 +34035,7 @@ Súprava obshauje:
     <ean>7611160064042</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -44562,7 +44244,7 @@ BEZPEČNÉ SKLADOVANIE
     <ean>7611160004109</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -48208,42 +47890,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>7.9037.L</item_id>
-    <productname>Victorinox 7.9037.L ochranná rukavica</productname>
-    <product>Victorinox 7.9037.L ochranná rukavica</product>
-    <description>Rukavice Victorinox Heavy-Cut sú obojručné a je možné ich nosiť na ľavej i pravej ruke. Vyrobené sú z materiálu Brinix  ® hrúbky 0,08 mm, A8C, polyesteru a nehrdzavejúcej ocele. Predávané sú individuálne, nie v pároch.</description>
-    <url>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-7-9037-l-ochranna-rukavica?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2016/02/p_933-1296-Victorinox-7.9037.L-ochranna-rukavica.jpg</imgurl>
-    <price>24,23</price>
-    <price_vat>29,80</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean />
-    <categorytext>E-Shop | Kuchynské nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>7.9037.M</item_id>
     <productname>Victorinox 7.9037.M ochranná rukavica</productname>
     <product>Victorinox 7.9037.M ochranná rukavica</product>
@@ -48654,42 +48300,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>8.0919.24</item_id>
-    <productname>Victorinox 8.0919.24 krajčírske nožnice</productname>
-    <product>Victorinox 8.0919.24 krajčírske nožnice</product>
-    <description>Krajčírske nožnice s čiernou rukoväťou</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-8-0919-24-krajcirske-noznice?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2019/08/Nožnice-krajčírske-Victorinox-8.0919.24.jpg</imgurl>
-    <price>32,52</price>
-    <price_vat>40,00</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160800589</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -49722,42 +49332,6 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>8.2030.13</item_id>
-    <productname>Victorinox 8.2030.13 klieštiky na nechty</productname>
-    <product>Victorinox 8.2030.13 klieštiky na nechty</product>
-    <description>Klieštiky na nechty vyrobené z poniklovanej ocele.</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-8-2030-13-kliestiky-na-nechty?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2012/08/Victorinox-8.2030.13-klieštiky-na-nechty.jpg</imgurl>
-    <price>21,71</price>
-    <price_vat>26,70</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7891060176568</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>8.2040.10</item_id>
     <productname>Victorinox 8.2040.10 klieštiky na kožu</productname>
     <product>Victorinox 8.2040.10 klieštiky na kožu</product>
@@ -49929,7 +49503,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7612947013871</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -59356,42 +58930,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>4.0515</item_id>
-    <productname>Victorinox 4.0515 puzdro</productname>
-    <product>Victorinox 4.0515 puzdro</product>
-    <description>Rozmery: 20 x 90 x 25 mm</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0515-puzdro?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/4.0515.webp</imgurl>
-    <price>13,25</price>
-    <price_vat>16,30</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160406484</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>14</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
     <item_id>4.0519</item_id>
     <productname>Victorinox 4.0519 puzdro</productname>
     <product>Victorinox 4.0519 puzdro</product>
@@ -59403,42 +58941,6 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>4.0662</item_id>
-    <productname>Victorinox 4.0662 púzdro kožené</productname>
-    <product>Victorinox 4.0662 púzdro kožené</product>
-    <description>Štýlové puzdro na vreckový nôž Victorinox 58 mm.</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/puzdra/victorinox-4-0662-puzdro-kozene?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/4.0662.webp</imgurl>
-    <price>6,59</price>
-    <price_vat>8,10</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160401458</ean>
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>0</delivery_date>
