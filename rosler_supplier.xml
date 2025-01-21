@@ -1036,40 +1036,34 @@
     </delivery>
   </shopitem>
   <shopitem>
-    <item_id>0.6221.L21</item_id>
-    <productname>Classic Alox Limited Edition 2021</productname>
-    <product>Classic Alox Limited Edition 2021</product>
-    <description>LIMITOVANÁ EDÍCIA ALOX 2021
- 
- NESPÚTANÁ SILA DIVOČINY
- 
- Každý rok dávame našej ikonickej kolekcii vreckových nožov Alox nový šat. Sme hrdí na to, že v roku 2021 môžeme uviesť tigrovo-oranžové prevedenie, ktoré symbolizuje silu, energiu a vášeň. V poradí 7. Limitovaná Edícia Alox prichádza v novej konštelácii, pozostávajúcej z modelu Classic, Pioneer X a Hunter Pro. Živý a stimulujúci dizajn prináša do každodenného života silu a zábavu, ktorá priťahuje zberateľov amilovníkov ikonických vreckových nožov Victorinox. Vďaka embosovaným črienkam z aloxovaného hliníku táto kolekcia dokonalo kombinuje štýl a formu.
- 
- • Zberateľské nože s črienkami z aloxovaného hliníku v tigrovo-oranžovej farbe
- • Limitovaná edícia s rokom 2021 vyobrazeným na zadnej strane
- • Dostupné v troch rôznych veľkostiach až s 9 funkciami, vrátane Hunter Pro Alox
- 
+    <item_id>0.6221.L25</item_id>
+    <productname>Classic SD Alox Limitovaná edícia 2025</productname>
+    <product>Classic SD Alox Limitovaná edícia 2025</product>
+    <description>LIMITOVANÁ EDÍCIA ALOX 2025 
+
+  11. vydanie našej úspešnej limitovanej edície Alox je navrhnuté tak, aby svoje posolstvo hlásalo odvážne a nezabudnuteľne, čím si podmaní každého zberateľa a fanúšika. Limitovaná edícia pre rok 2025 je odetá do výraznej a plnej farby Stone Red. Jej exkluzívny tón stelesňuje silu a vyžaruje pocit pokoja a rovnováhy. Rovnako ako zvetraný kameň, tento hlboký odtieň evokuje odolnosť a stabilitu, zatiaľ čo červené podtóny vyjadrujú teplo a vitalitu. Odolné črienky z aloxovaného hliníku s rokom 2025 uvedeným na zadnej strane pripomínajú užívateľom jedinečnosť tejto limitovanej edície.  
+
  Vreckový nôž obsahuje:
  
 
  
  uzatváracia čepeľ 
  pilník na nechty so 
- skrutkovačom 
+ skrutkovačom 2,5 mm 
  nožnice 
  nerezový krúžok na kľúče 
  
  Balenie: špeciálne darčekové balenie</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/limitovane-edicie/classic-alox-limited-edition-2021?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2021/02/SAK_0-6221-L21_S1.jpg</imgurl>
-    <price>35,85</price>
-    <price_vat>44,10</price_vat>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/limitovane-edicie/classic-sd-alox-limitovana-edicia-2025?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/alox-classic.jpg</imgurl>
+    <price>36,59</price>
+    <price_vat>45,00</price_vat>
     <item_type>new</item_type>
     <manufacturer>Victorinox</manufacturer>
     <ean />
     <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -21202,42 +21196,6 @@ Od trendových silikónových obalov v 5 odvážnych farbách až po elegantné 
   </shopitem>
   <shopitem>
     <item_id>4.1824.9</item_id>
-    <productname>Victorinox 4.1824.1 nylonová šnúrka</productname>
-    <product>Victorinox 4.1824.1 nylonová šnúrka</product>
-    <description>Nylonová šnúrka veľkosti 65 mm. Možno ju pripevniť na nerezový krúžok umiestnený na noži a zabezpečiť tak ľahšiu manipuláciu s ním.</description>
-    <url>https://vreckovynoz.sk/produkty/vreckove-noze/prislusenstvo-a-doplnky/victorinox-4-1824-1-nylonova-snurka?from=heureka</url>
-    <imgurl>https://vreckovynoz.sk/files/products/2014/09/p_757-1030-Victorinox-4.1824.9-nylonova-snurka.jpg</imgurl>
-    <price>1,30</price>
-    <price_vat>1,60</price_vat>
-    <item_type>new</item_type>
-    <manufacturer>Victorinox</manufacturer>
-    <ean>7611160038173</ean>
-    <categorytext>E-Shop | Vreckové nože</categorytext>
-    <productno />
-    <delivery_date>0</delivery_date>
-    <delivery>
-      <delivery_id>SLOVENSKA_POSTA</delivery_id>
-      <delivery_price>3.95</delivery_price>
-      <delivery_price_cod>5.3</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>Z_BOX</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA</delivery_id>
-      <delivery_price>3.85</delivery_price>
-      <delivery_price_cod>5.2</delivery_price_cod>
-    </delivery>
-    <delivery>
-      <delivery_id>PACKETA_DOMOV</delivery_id>
-      <delivery_price>4.5</delivery_price>
-      <delivery_price_cod>5.85</delivery_price_cod>
-    </delivery>
-  </shopitem>
-  <shopitem>
-    <item_id>4.1824.9</item_id>
     <productname>Victorinox 4.1824.9 nylonová šnúrka</productname>
     <product>Victorinox 4.1824.9 nylonová šnúrka</product>
     <description>Nylonová šnúrka veľkosti 65 mm. Možno ju pripevniť na nerezový krúžok umiestnený na noži a zabezpečiť tak ľahšiu manipuláciu s ním.</description>
@@ -23853,7 +23811,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160506023</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>14</delivery_date>
+    <delivery_date>0</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -34523,7 +34481,7 @@ Súprava obshauje:
     <ean>7611160042736</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -35834,7 +35792,7 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
     <ean>7611160038326</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -47687,7 +47645,7 @@ Pri správnom zaobchádzaní a zodpovedajúcej starostlivosti Vám budú tieto l
     <ean>7611160030665</ean>
     <categorytext>E-Shop | Kuchynské nože</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -52655,7 +52613,7 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <ean />
     <categorytext>E-Shop | Kufre a cestovné tašky</categorytext>
     <productno />
-    <delivery_date>0</delivery_date>
+    <delivery_date>14</delivery_date>
     <delivery>
       <delivery_id>SLOVENSKA_POSTA</delivery_id>
       <delivery_price>3.95</delivery_price>
@@ -59477,6 +59435,148 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     <manufacturer>Victorinox</manufacturer>
     <ean>7611160089182</ean>
     <categorytext>E-Shop | Hodinky</categorytext>
+    <productno />
+    <delivery_date>14</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>3.95</delivery_price>
+      <delivery_price_cod>5.3</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>Z_BOX</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA_DOMOV</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>5.85</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>0.6221.L21</item_id>
+    <productname>Classic Alox Limited Edition 2021</productname>
+    <product>Classic Alox Limited Edition 2021</product>
+    <description>LIMITOVANÁ EDÍCIA ALOX 2021
+ 
+ NESPÚTANÁ SILA DIVOČINY
+ 
+ Každý rok dávame našej ikonickej kolekcii vreckových nožov Alox nový šat. Sme hrdí na to, že v roku 2021 môžeme uviesť tigrovo-oranžové prevedenie, ktoré symbolizuje silu, energiu a vášeň. V poradí 7. Limitovaná Edícia Alox prichádza v novej konštelácii, pozostávajúcej z modelu Classic, Pioneer X a Hunter Pro. Živý a stimulujúci dizajn prináša do každodenného života silu a zábavu, ktorá priťahuje zberateľov amilovníkov ikonických vreckových nožov Victorinox. Vďaka embosovaným črienkam z aloxovaného hliníku táto kolekcia dokonalo kombinuje štýl a formu.
+ 
+ • Zberateľské nože s črienkami z aloxovaného hliníku v tigrovo-oranžovej farbe
+ • Limitovaná edícia s rokom 2021 vyobrazeným na zadnej strane
+ • Dostupné v troch rôznych veľkostiach až s 9 funkciami, vrátane Hunter Pro Alox
+ 
+ Vreckový nôž obsahuje:
+ 
+
+ 
+ uzatváracia čepeľ 
+ pilník na nechty so 
+ skrutkovačom 
+ nožnice 
+ nerezový krúžok na kľúče 
+ 
+ Balenie: špeciálne darčekové balenie</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/limitovane-edicie/classic-alox-limited-edition-2021-690c?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/2021/02/SAK_0-6221-L21_S1.jpg</imgurl>
+    <price>35,85</price>
+    <price_vat>44,10</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
+    <productno />
+    <delivery_date>0</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>3.95</delivery_price>
+      <delivery_price_cod>5.3</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>Z_BOX</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA_DOMOV</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>5.85</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>0.8231.L25</item_id>
+    <productname>Pioneer X Alox Limitovaná edícia 2025</productname>
+    <product>Pioneer X Alox Limitovaná edícia 2025</product>
+    <description>LIMITOVANÁ EDÍCIA ALOX 2025     11. vydanie našej úspešnej limitovanej edície Alox je navrhnuté tak, aby svoje posolstvo hlásalo odvážne a nezabudnuteľne, čím si podmaní každého zberateľa a fanúšika. Limitovaná edícia pre rok 2025 je odetá do výraznej a plnej farby Stone Red. Jej exkluzívny tón stelesňuje silu a vyžaruje pocit pokoja a rovnováhy. Rovnako ako zvetraný kameň, tento hlboký odtieň evokuje odolnosť a stabilitu, zatiaľ čo červené podtóny vyjadrujú teplo a vitalitu. Odolné črienky z aloxovaného hliníku s rokom 2025 uvedeným na zadnej strane pripomínajú užívateľom jedinečnosť tejto limitovanej edície.      Vreckový nôž obsahuje:
+  
+ uzatváracia čepeľ  otvárač na konverzvy so  - skrutkovačom 3 mm  otvárač na fľaše so  - skrutkovačom 7 mm  - odstraňovačom izolácie drôtov  dierovač, výstružník   nožnice 
+ nerezový krúžok na kľúče 
+     Balenie: špeciálne darčekové balenie</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/limitovane-edicie/pioneer-x-alox-limitovana-edicia-2025?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/alox-pioneer.jpg</imgurl>
+    <price>62,60</price>
+    <price_vat>77,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
+    <productno />
+    <delivery_date>14</delivery_date>
+    <delivery>
+      <delivery_id>SLOVENSKA_POSTA</delivery_id>
+      <delivery_price>3.95</delivery_price>
+      <delivery_price_cod>5.3</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>Z_BOX</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA</delivery_id>
+      <delivery_price>3.85</delivery_price>
+      <delivery_price_cod>5.2</delivery_price_cod>
+    </delivery>
+    <delivery>
+      <delivery_id>PACKETA_DOMOV</delivery_id>
+      <delivery_price>4.5</delivery_price>
+      <delivery_price_cod>5.85</delivery_price_cod>
+    </delivery>
+  </shopitem>
+  <shopitem>
+    <item_id>0.9415.L25</item_id>
+    <productname>Evoke Alox Limitovaná edícia 2025</productname>
+    <product>Evoke Alox Limitovaná edícia 2025</product>
+    <description>LIMITOVANÁ EDÍCIA ALOX 2025 
+
+  11. vydanie našej úspešnej limitovanej edície Alox je navrhnuté tak, aby svoje posolstvo hlásalo odvážne a nezabudnuteľne, čím si podmaní každého zberateľa a fanúšika. Limitovaná edícia pre rok 2025 je odetá do výraznej a plnej farby Stone Red. Jej exkluzívny tón stelesňuje silu a vyžaruje pocit pokoja a rovnováhy. Rovnako ako zvetraný kameň, tento hlboký odtieň evokuje odolnosť a stabilitu, zatiaľ čo červené podtóny vyjadrujú teplo a vitalitu. Odolné črienky z aloxovaného hliníku s rokom 2025 uvedeným na zadnej strane pripomínajú užívateľom jedinečnosť tejto limitovanej edície.  
+
+ Vreckový nôž obsahuje:
+ 
+
+ 
+ uzatváracia čepeľ  odnímateľný kolík na jednoručné otváranie  odnímateľný klip  otvor na šnúrku  paracordová šnúrka 
+ 
+ Balenie: špeciálne darčekové balenie</description>
+    <url>https://vreckovynoz.sk/produkty/vreckove-noze/limitovane-edicie/evoke-alox-limitovana-edicia-2025?from=heureka</url>
+    <imgurl>https://vreckovynoz.sk/files/products/alox-evoke.jpg</imgurl>
+    <price>109,76</price>
+    <price_vat>135,00</price_vat>
+    <item_type>new</item_type>
+    <manufacturer>Victorinox</manufacturer>
+    <ean />
+    <categorytext>E-Shop | Vreckové nože</categorytext>
     <productno />
     <delivery_date>14</delivery_date>
     <delivery>
