@@ -33982,8 +33982,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>30.00</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -39935,8 +39935,8 @@ Vynájdenie plastovej rukoväte Fibrox znamenalo pre Victorinox skutočný priel
       <DESCRIPTION>No description provided.</DESCRIPTION>
     </ITEM_CONDITION>
     <PRICE_VAT>19.90</PRICE_VAT>
-    <AVAILABILITY>3-7 dní</AVAILABILITY>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
     </CATEGORIES>
@@ -89097,6 +89097,301 @@ Vďaka svojej elegantnej a štíhlej siluete je batoh Altmont Professional City 
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://vreckovynoz.sk/files/products/alox-evoke.jpg</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>6.0942.3</CODE>
+    <NAME>Victorinox 6.0942.3 Škrabka Iota Peeler</NAME>
+    <DESCRIPTION>Victorinox Iota Straight Peeler – precízna škrabka na ovocie a zeleninu   Jednoduché a efektívne šúpanie v kompaktnom dizajne. Škrabka Victorinox Iota Straight Peeler je ideálnym kuchynským nástrojom na rýchle a precízne ošúpanie ovocia a zeleniny. Vďaka pevnej nerezovej čepeli zvládne prácu s minimálnou námahou, zatiaľ čo ľahká plastová rukoväť zabezpečuje pohodlné uchopenie.   Technické špecifikácie:     Dĺžka: 165 mm  Výška: 20 mm  Šírka: 10 mm  Hmotnosť: 20 g  Materiál: Polypropylén (PP)  Typ čepele: Pevná, nerezová oceľ  Farba: Čierna  Vhodná do umývačky riadu: Áno     Hlavné výhody:    Pevná a ostrá nerezová čepeľ – rýchle a efektívne šúpanie  Ergonomická plastová rukoväť – ľahká a pohodlná na používanie  Kompaktný dizajn – jednoduché skladovanie a manipulácia  Univerzálne použitie – vhodná pre pravákov aj ľavákov  Možnosť umývania v umývačke riadu – jednoduchá údržba  Švajčiarska kvalita Victorinox – precízne spracovanie a dlhá životnosť      Táto škrabka je praktickým a ľahkým kuchynským nástrojom, ktorý vám uľahčí prípravu čerstvých surovín každý deň.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-6-0942-3-skrabka-iota-peeler?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>5.90</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/2025/skrabky/cut_6-0942-3_s1io%3dtransformfit,width1800,height1300%26quality%3d80_05a02.jpeg</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>6.0950.1</CODE>
+    <NAME>Victorinox 6.0950.1 Škrabka Rho Peeler</NAME>
+    <DESCRIPTION>Victorinox Rho Peeler – precízna škrabka na ovocie a zeleninu   Vďaka pohyblivej čepeli z nehrdzavejúcej ocele poskytuje mimoriadne hladké a efektívne šúpanie. Je ideálna na rôzne druhy ovocia a zeleniny, pričom si poradí aj s tenkou či hrubšou šupkou. Ergonomická plastová rukoväť zabezpečuje pohodlné držanie a precíznu manipuláciu.   Technické špecifikácie:    Dĺžka: 160 mm  Výška: 10 mm  Šírka: 58 mm  Hmotnosť: 21 g  Materiál: Polypropylén (PP)  Typ čepele: Pohyblivá, nerezová oceľ  Farba: Čierna  Vhodná do umývačky riadu: Áno    Hlavné výhody:    Pohyblivá nerezová čepeľ – prispôsobí sa tvaru ovocia a zeleniny  Ergonomická plastová rukoväť – ľahká a pohodlná na manipuláciu  Efektívne šúpanie – ideálne pre rôzne druhy ovocia a zeleniny  Vhodná pre pravákov aj ľavákov – univerzálny dizajn  Možnosť umývania v umývačke riadu – jednoduchá údržba  Švajčiarska kvalita Victorinox – spoľahlivosť a dlhá životnosť   Táto škrabka je praktickým pomocníkom v každej kuchyni a zabezpečí rýchlu a efektívnu prípravu surovín.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-6-0950-1-skrabka-rho-peeler?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>5.90</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/2025/skrabky/cut_6-0950-1_s1io%3dtransformfit,width1800,height1300%26quality%3d80_04a91.png</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>6.0963.1</CODE>
+    <NAME>Victorinox 6.0963.1 Škrabka Ypso Peeler</NAME>
+    <DESCRIPTION>Victorinox Ypso Peeler – škrabka v tvare „Y“ pre efektívne šúpanie   Vybavená pohyblivou nerezovou čepeľou, ktorá sa prispôsobí tvaru surovín a zabezpečí hladké a presné šúpanie. Ergonomická plastová rukoväť s bočným odstraňovačom očiek zemiakov zvyšuje funkčnosť a praktickosť tejto škrabky.   Technické špecifikácie:    Dĺžka: 145 mm  Výška: 18 mm  Šírka: 63 mm  Hmotnosť: 20 g  Materiál: Polypropylén (PP)  Typ čepele: Pohyblivá, nerezová oceľ  Farba: Zelená (Kale)  Odstraňovač očiek zemiakov: Áno  Vhodná do umývačky riadu: Áno    Hlavné výhody:    Pohyblivá nerezová čepeľ – prispôsobí sa tvaru ovocia a zeleniny  Tvar „Y“ – umožňuje efektívnejšie a rýchlejšie šúpanie  Bočný odstraňovač očiek zemiakov – praktická funkcia navyše  Ergonomická plastová rukoväť – pohodlné a bezpečné uchopenie  Vhodná pre pravákov aj ľavákov – univerzálne použitie  Možnosť umývania v umývačke riadu – jednoduchá údržba  Švajčiarska kvalita Victorinox – precízne spracovanie a dlhá životnosť   Táto škrabka je ideálnym pomocníkom na rýchle a efektívne šúpanie rôznych druhov ovocia a zeleniny.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-6-0963-1-skrabka-ypso-peeler?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>5.90</PRICE_VAT>
+    <AVAILABILITY>3-7 dní</AVAILABILITY>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/2025/skrabky/cut_6-0963-1_s1io%3dtransformfit,width1800,height1300%26quality%3d80_c979e.png</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>6.0972.3</CODE>
+    <NAME>Victorinox 6.0972.3 Škrabka Nova I Peeler</NAME>
+    <DESCRIPTION>Victorinox Nova I Peeler – kompaktná škrabka pre rýchle a presné šúpanie   Predstavujeme našu prémiovú škrabku, ktorá je dôkazom precíznej práce a dôrazu na detail. Či už pripravujete tenké plátky uhorky pre chrumkavý šalát, alebo vytvárate jemné hobliny čokolády, Nova-I vám vždy poslúži. Vďaka elegantnému tvaru, vhodnosti do umývačky riadu a mimoriadnej ostrosti posúva šúpanie na novú úroveň.  Ideálna pre okrúhle ovocie a zeleninu: Umožňuje plynulý pohyb okolo zložitých tvarov.  Švajčiarska kvalita: Škrabka s rovnou, ľahko čistiteľnou čepeľou, ktorá zaisťuje dlhodobú ostrosť a je vhodná do umývačky riadu.  Pohodlie a odolnosť: Inovatívna kombinácia vysokokvalitnej nehrdzavejúcej ocele a rukoväte z materiálu Tritan poskytuje maximálny komfort a trvanlivosť.      Technické špecifikácie:    Dĺžka: 162 mm  Výška: 10 mm  Šírka: 28 mm  Hmotnosť: 45 g  Materiál: Tritan  Typ čepele: Pohyblivá, nerezová oceľ  Farba: Čierna  Vhodná do umývačky riadu: Áno    Hlavné výhody:    Pohyblivá nerezová čepeľ – efektívne šúpanie s minimálnym úsilím  Kompaktný dizajn – ideálny pre každodenné používanie a jednoduché skladovanie  Ergonomická rukoväť z Tritanu – pevná, odolná a pohodlná na uchopenie  Vhodná pre pravákov aj ľavákov – univerzálne použitie  Možnosť umývania v umývačke riadu – jednoduchá údržba  Švajčiarska kvalita Victorinox – precízne spracovanie a dlhá životnosť   Táto škrabka je ideálnym pomocníkom na rýchle a efektívne šúpanie rôznych druhov ovocia a zeleniny.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-6-0972-3-skrabka-nova-i-peeler?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>21.00</PRICE_VAT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/2025/skrabky/cut_6-0972-3_s1io%3dtransformfit,width1800,height1300%26quality%3d80_0cf9c.png</IMAGE>
+    </IMAGES>
+    <MANUFACTURER>Victorinox</MANUFACTURER>
+    <EAN>N/A</EAN>
+    <ACTION_PRICE>0</ACTION_PRICE>
+    <ACTION_PRICE_FROM>2023-01-01</ACTION_PRICE_FROM>
+    <ACTION_PRICE_UNTIL>2023-12-31</ACTION_PRICE_UNTIL>
+    <ADULT>false</ADULT>
+    <ALLOWS_IPLATBA>false</ALLOWS_IPLATBA>
+    <ALLOWS_PAYU>false</ALLOWS_PAYU>
+    <ALLOWS_PAY_ONLINE>false</ALLOWS_PAY_ONLINE>
+    <APPLY_DISCOUNT_COUPON>false</APPLY_DISCOUNT_COUPON>
+    <APPLY_LOYALTY_DISCOUNT>false</APPLY_LOYALTY_DISCOUNT>
+    <APPLY_QUANTITY_DISCOUNT>false</APPLY_QUANTITY_DISCOUNT>
+    <APPLY_VOLUME_DISCOUNT>false</APPLY_VOLUME_DISCOUNT>
+    <ARUKERESO_HIDDEN>false</ARUKERESO_HIDDEN>
+    <ARUKERESO_MARKETPLACE_HIDDEN>false</ARUKERESO_MARKETPLACE_HIDDEN>
+    <ATYPICAL_BILLING>false</ATYPICAL_BILLING>
+    <ATYPICAL_SHIPPING>false</ATYPICAL_SHIPPING>
+    <CURRENCY>EUR</CURRENCY>
+    <DECIMAL_COUNT>2</DECIMAL_COUNT>
+    <EXTERNAL_ID>N/A</EXTERNAL_ID>
+    <FIRMY_CZ>false</FIRMY_CZ>
+    <FREE_BILLING>false</FREE_BILLING>
+    <FREE_SHIPPING>false</FREE_SHIPPING>
+    <GUID>00000000-0000-0000-0000-000000000000</GUID>
+    <HEUREKA_CART_HIDDEN>false</HEUREKA_CART_HIDDEN>
+    <HEUREKA_HIDDEN>false</HEUREKA_HIDDEN>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <MIN_PRICE_RATIO>0.0</MIN_PRICE_RATIO>
+    <PRICE>0.0</PRICE>
+    <PRICE_RATIO>0.0</PRICE_RATIO>
+    <TOLL_FREE>false</TOLL_FREE>
+    <VAT>20</VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <VISIBLE>true</VISIBLE>
+    <XML_FEED_NAME>N/A</XML_FEED_NAME>
+    <ZBOZI_HIDDEN>false</ZBOZI_HIDDEN>
+    <SIZEID>
+      <ID>0</ID>
+      <LABEL>N/A</LABEL>
+    </SIZEID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>6.0982.3</CODE>
+    <NAME>Victorinox 6.0982.3 Škrabka Nova Y Peeler</NAME>
+    <DESCRIPTION>Victorinox Nova-Y Peeler – prémiová škrabka pre efektívne šúpanie   Vďaka pohyblivej čepeli z nehrdzavejúcej ocele sa prispôsobí tvaru surovín a zabezpečí plynulý a presný pohyb. Ergonomická rukoväť z materiálu Tritan zaručuje pevný úchop a maximálnu kontrolu pri používaní.Ideálna pre dlhé ovocie a zeleninu:    Perfektná na šúpanie uhoriek, mrkvy a podobných surovín.  Švajčiarska kvalita: Škrabka s rovnou, ľahko čistiteľnou čepeľou, ktorá zaisťuje dlhodobú ostrosť a je vhodná do umývačky riadu.  Pohodlie a odolnosť: Inovatívna kombinácia vysokokvalitnej nehrdzavejúcej ocele a rukoväte z materiálu Tritan poskytuje maximálny komfort a trvanlivosť.         Technické špecifikácie:    Dĺžka: 145 mm  Výška: 10 mm  Šírka: 76 mm  Hmotnosť: 45 g  Materiál: Tritan  Typ čepele: Pohyblivá, nerezová oceľ  Farba: Čierna  Vhodná do umývačky riadu: Áno    Hlavné výhody:    Pohyblivá nerezová čepeľ – plynulo sa prispôsobí tvaru ovocia a zeleniny pre presné a efektívne šúpanie  Tvar „Y“ – ideálny na dlhé suroviny, ako sú uhorky, mrkva alebo cuketa  Ergonomická rukoväť z Tritanu – pevná, odolná a pohodlná na uchopenie  Ľahká konštrukcia – minimalizuje námahu pri dlhodobom používaní  Vhodná pre pravákov aj ľavákov – univerzálne použitie  Možnosť umývania v umývačke riadu – jednoduchá údržba  Švajčiarska kvalita Victorinox – precízne spracovanie a dlhá životnosť   Táto škrabka je dokonalým pomocníkom do každej kuchyne, ktorý zjednoduší a zrýchli prípravu surovín.</DESCRIPTION>
+    <ORIG_URL>https://vreckovynoz.sk/produkty/kuchynske-noze/kuchynske-pomocky/victorinox-6-0982-3-skrabka-nova-y-peeler?from=heureka</ORIG_URL>
+    <ITEM_CONDITION>
+      <GRADE>used</GRADE>
+      <DESCRIPTION>No description provided.</DESCRIPTION>
+    </ITEM_CONDITION>
+    <PRICE_VAT>21.00</PRICE_VAT>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <CATEGORIES>
+      <CATEGORY>E-Shop | Kuchynské nože</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://vreckovynoz.sk/files/products/2025/skrabky/cut_6-0982-3_s2io%3dtransformfit,width1800,height1300%26quality%3d80_bb680.png</IMAGE>
     </IMAGES>
     <MANUFACTURER>Victorinox</MANUFACTURER>
     <EAN>N/A</EAN>
